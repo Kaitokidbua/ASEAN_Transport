@@ -61,6 +61,17 @@
  └── ASEAN_Part7_DevelopmentGap_Fig24-26.ipynb ← Part 7: Development Gap
 ```
 
+
+## 🚀 เปิดใน Google Colab
+
+| Part 1 — กรุงเทพฯ | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kaitokidbua/ASEAN_Transport/blob/main/ASEAN_Part1_Bangkok_Fig1-4.ipynb) |
+| Part 2 — สิงคโปร์ | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kaitokidbua/ASEAN_Transport/blob/main/ASEAN_Part2_Singapore_Fig5-8.ipynb) |
+| Part 3 — กัวลาลัมเปอร์ | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kaitokidbua/ASEAN_Transport/blob/main/ASEAN_Part3_KualaLumpur_Fig9-12.ipynb) |
+| Part 4 — จาการ์ตา | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kaitokidbua/ASEAN_Transport/blob/main/ASEAN_Part4_Jakarta_Fig13-16.ipynb) |
+| Part 5 — มะนิลา | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kaitokidbua/ASEAN_Transport/blob/main/ASEAN_Part5_Manila_Fig17-20.ipynb) |
+| Part 6 — Economic Growth | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kaitokidbua/ASEAN_Transport/blob/main/ASEAN_Part6_EconomicGrowth_Fig21-23.ipynb) |
+| Part 7 — Development Gap | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kaitokidbua/ASEAN_Transport/blob/main/ASEAN_Part7_DevelopmentGap_Fig24-26.ipynb) |
+
 ---
 
 ## Part 1 — กรุงเทพมหานคร 🇹🇭
@@ -74,7 +85,7 @@
 
 &emsp;กราฟ Area Chart นี้เหมือนการวัดชีพจรของกรุงเทพฯ — แต่ละเดือนบอกว่าคนออกไปข้างนอกมากน้อยแค่ไหน ในปี 2021 ตัวเลขยังต่ำมากเพราะ Lockdown ยังไม่คลาย แต่พอเข้าสู่ปี 2022 เป็นต้นมา เมืองค่อยๆ ฟื้นชีวิตกลับมา
 
-> 📊 *รันกราฟได้ที่* [`ASEAN_Part1_Bangkok_Fig1-4.ipynb`](ASEAN_Part1_Bangkok_Fig1-4.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kaitokidbua/ASEAN_Transport/blob/main/ASEAN_Part1_Bangkok_Fig1-4.ipynb)
 
 > 📌 **สรุป:** จากช่วงต่ำสุด ~6 ล้านเที่ยว/เดือน ในกลางปี 2021 กรุงเทพฯ ฟื้นตัวขึ้นมาถึง **~50 ล้านเที่ยว/เดือน** ในปี 2025 หรือเพิ่มขึ้นกว่า **8 เท่า** ในเวลาเพียง 4 ปี นอกจากนี้ยังเห็น Seasonal Pattern ชัด — ตัวเลขมักลดลงช่วงพฤษภาคม–สิงหาคม (ฤดูฝน) และสูงในช่วงต้นปี
 
@@ -84,7 +95,7 @@
 
 &emsp;กราฟ Donut Chart แสดงว่าถ้านับผู้โดยสารทั้งหมดในช่วง 4 ปีที่ผ่านมา แต่ละระบบมีส่วนแบ่งเท่าไหร่ จะเห็นได้ว่าระบบไหนที่คนกรุงเทพฯ "เลือก" ใช้จริงๆ ในชีวิตประจำวัน
 
-> 📊 *รันกราฟได้ที่* [`ASEAN_Part1_Bangkok_Fig1-4.ipynb`](ASEAN_Part1_Bangkok_Fig1-4.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kaitokidbua/ASEAN_Transport/blob/main/ASEAN_Part1_Bangkok_Fig1-4.ipynb)
 
 > 📌 **สรุป:** **BTS Skytrain ครองส่วนแบ่งสูงสุดกว่า 50%** ตามด้วย MRT อีกราว 31% ทั้งสองระบบรวมกันคิดเป็นกว่า 80% ของการเดินทางทั้งหมด สายใหม่อย่าง Yellow Line และ Pink Line ยังมีสัดส่วนน้อย แต่กำลังเพิ่มขึ้นเรื่อยๆ สะท้อนว่าคนกรุงเทพฯ รอคอยการขยายระบบ Rail มาโดยตลอด
 
@@ -94,7 +105,7 @@
 
 &emsp;กราฟแท่งซ้อนช่วยให้เห็นทั้ง "ขนาดรวม" และ "โครงสร้างภายใน" ไปพร้อมกัน สังเกตดูว่าในแต่ละปี สัดส่วนของแต่ละสายเปลี่ยนไปอย่างไรบ้าง โดยเฉพาะสายใหม่ที่เพิ่งเปิดในปี 2023
 
-> 📊 *รันกราฟได้ที่* [`ASEAN_Part1_Bangkok_Fig1-4.ipynb`](ASEAN_Part1_Bangkok_Fig1-4.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kaitokidbua/ASEAN_Transport/blob/main/ASEAN_Part1_Bangkok_Fig1-4.ipynb)
 
 > 📌 **สรุป:** ในทุกปี BTS และ MRT เติบโตต่อเนื่อง และเริ่มเห็นการเพิ่มขึ้นของ Yellow Line และ Pink Line ในปี 2023–2024 อย่างชัดเจน แสดงว่าการขยายโครงข่ายรถไฟฟ้าของกรุงเทพฯ กำลังส่งผลจริงต่อพฤติกรรมการเดินทาง
 
@@ -104,7 +115,7 @@
 
 &emsp;กราฟนี้ตอบคำถามว่า แต่ละสายรถไฟฟ้า "โตเร็วแค่ไหน" เมื่อเทียบปีต่อปี บางสายอาจตัวเลขรวมน้อย แต่โตเร็วมาก ซึ่งบ่งบอกถึงศักยภาพในอนาคต
 
-> 📊 *รันกราฟได้ที่* [`ASEAN_Part1_Bangkok_Fig1-4.ipynb`](ASEAN_Part1_Bangkok_Fig1-4.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kaitokidbua/ASEAN_Transport/blob/main/ASEAN_Part1_Bangkok_Fig1-4.ipynb)
 
 > 📌 **สรุป:** ปี 2022 ทุกระบบมี YoY Growth พุ่งสูงมาก (บาง Mode สูงกว่า +100%) เพราะเป็นปีแรกที่เมืองเปิดเต็มที่หลัง COVID ส่วนปี 2023–2024 การเติบโตเริ่มชะลอตัวลงสู่ระดับปกติ ซึ่งเป็นสัญญาณว่าตลาดเริ่มเข้าสู่ "ปกติใหม่" แล้ว
 
@@ -123,7 +134,7 @@
 
 &emsp;กราฟนี้แสดงให้เห็นว่าระบบขนส่งสิงคโปร์มีลักษณะอย่างไรทั้งในช่วงปกติ ช่วง COVID และช่วงฟื้นตัว — และฟื้นตัวได้เร็วแค่ไหนเมื่อเทียบกับเมืองอื่น
 
-> 📊 *รันกราฟได้ที่* [`ASEAN_Part2_Singapore_Fig5-8.ipynb`](ASEAN_Part2_Singapore_Fig5-8.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kaitokidbua/ASEAN_Transport/blob/main/ASEAN_Part2_Singapore_Fig5-8.ipynb)
 
 > 📌 **สรุป:** กราฟแสดงการดิ่งลงอย่างรุนแรงในต้นปี 2020 เมื่อ COVID ระบาด จาก ~300 ล้านเที่ยว/เดือน เหลือเพียง ~80 ล้านเที่ยว แต่สิงคโปร์ฟื้นตัวเร็ว และในปลายปี 2023 ตัวเลขกลับมาแตะระดับ Pre-COVID ได้อีกครั้ง สะท้อนความยืดหยุ่นของทั้งระบบขนส่งและเศรษฐกิจสิงคโปร์
 
@@ -133,7 +144,7 @@
 
 &emsp;สิงคโปร์มีระบบขนส่งหลักเพียง 3 ระบบ แต่ครอบคลุมทั่วทั้งเกาะ กราฟนี้แสดงว่าระหว่าง MRT กับ Bus ระบบไหนมีผู้ใช้มากกว่า — และผลที่ได้น่าประหลาดใจ
 
-> 📊 *รันกราฟได้ที่* [`ASEAN_Part2_Singapore_Fig5-8.ipynb`](ASEAN_Part2_Singapore_Fig5-8.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kaitokidbua/ASEAN_Transport/blob/main/ASEAN_Part2_Singapore_Fig5-8.ipynb)
 
 > 📌 **สรุป:** สิงคโปร์น่าสนใจมาก — **รถเมล์ (Public Bus) มีผู้ใช้มากกว่า MRT เล็กน้อย** สะท้อนว่าระบบขนส่งสิงคโปร์ครอบคลุมพื้นที่ได้อย่างทั่วถึง ไม่ใช่แค่เส้นทาง Rail หลักเท่านั้น ผู้คนสามารถพึ่งพา Bus ได้จริงในชีวิตประจำวัน
 
@@ -143,7 +154,7 @@
 
 &emsp;กราฟแท่งซ้อนแสดงผลกระทบของ COVID ในปี 2020 อย่างชัดเจน และให้เห็นว่าสัดส่วน Bus:MRT ยังคงที่แม้ในช่วงวิกฤต
 
-> 📊 *รันกราฟได้ที่* [`ASEAN_Part2_Singapore_Fig5-8.ipynb`](ASEAN_Part2_Singapore_Fig5-8.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kaitokidbua/ASEAN_Transport/blob/main/ASEAN_Part2_Singapore_Fig5-8.ipynb)
 
 > 📌 **สรุป:** ปี 2020–2021 ตัวเลขลดฮวบ แต่สัดส่วน Bus:MRT ยังคงเสถียร แสดงว่าพฤติกรรมการเลือกระบบขนส่งของคนสิงคโปร์ไม่เปลี่ยนแม้ในวิกฤต — บ่งบอกถึงความเชื่อมั่นในระบบ
 
@@ -153,7 +164,7 @@
 
 &emsp;เปรียบเทียบความเร็วในการฟื้นตัวของแต่ละระบบหลัง COVID ว่า MRT หรือ Bus ฟื้นตัวได้เร็วกว่ากัน และทิศทางสอดคล้องกันไหม
 
-> 📊 *รันกราฟได้ที่* [`ASEAN_Part2_Singapore_Fig5-8.ipynb`](ASEAN_Part2_Singapore_Fig5-8.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kaitokidbua/ASEAN_Transport/blob/main/ASEAN_Part2_Singapore_Fig5-8.ipynb)
 
 > 📌 **สรุป:** ปี 2020 สิงคโปร์ YoY ติดลบหนัก (-34%) แต่ฟื้นตัวได้ใน 2 ปีถัดมา ที่สำคัญคือ การฟื้นตัวของ Bus และ MRT เดินไปในทิศทางเดียวกัน สะท้อนการบริหารระบบที่เป็นเอกภาพ
 
@@ -172,7 +183,7 @@
 
 &emsp;ชุดกราฟ 4 ตัวนี้วิเคราะห์กัวลาลัมเปอร์ในมิติเดียวกับกรุงเทพฯ และสิงคโปร์ เพื่อให้เปรียบเทียบได้ตรงกัน โดยเน้น Top 5 Modes ที่มีผู้ใช้สูงสุด
 
-> 📊 *รันกราฟได้ที่* [`ASEAN_Part3_KualaLumpur_Fig9-12.ipynb`](ASEAN_Part3_KualaLumpur_Fig9-12.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kaitokidbua/ASEAN_Transport/blob/main/ASEAN_Part3_KualaLumpur_Fig9-12.ipynb)
 
 > 📌 **สรุป:** KL เผชิญการล็อกดาวน์ที่ยาวนานกว่าชาติอื่น ทำให้ปี 2021 ตัวเลขผู้โดยสารต่ำสุดในกลุ่ม แต่พอปี 2022 เปิดเมืองได้เต็มที่ กลับมีการฟื้นตัวแบบ **"กระโจน"** โดย YoY ปี 2022 พุ่งขึ้นกว่า +200% สะท้อนความต้องการที่อัดอั้นมานาน LRT Kelana Jaya และ MRT Kajang ครองสัดส่วนหลัก แต่ระบบมีความหลากหลายสูง ทำให้ยากต่อการบริหารจัดการแบบบูรณาการ
 
@@ -191,7 +202,7 @@
 
 &emsp;ชุดกราฟ 4 ตัวนี้แสดงภาพจาการ์ตาในช่วงปี 2024–2025 ซึ่งเป็นข้อมูลที่มีอยู่ทั้งหมด แม้จะสั้น แต่ก็บอกโครงสร้างการเดินทางของเมืองได้ชัดเจน
 
-> 📊 *รันกราฟได้ที่* [`ASEAN_Part4_Jakarta_Fig13-16.ipynb`](ASEAN_Part4_Jakarta_Fig13-16.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kaitokidbua/ASEAN_Transport/blob/main/ASEAN_Part4_Jakarta_Fig13-16.ipynb)
 
 > 📌 **สรุป:** แม้จะมีข้อมูลเพียง 2 ปี แต่สิ่งที่เห็นชัดคือ **TransJakarta ครองสัดส่วนเกือบครึ่ง** (~48%) และ KRL Commuter อีก ~42% รวมกันเกือบ 90% ของการเดินทางทั้งหมด MRT Jakarta ยังมีสัดส่วนน้อยมาก (<6%) สะท้อนว่าระบบ Rail ยังอยู่ในช่วงเริ่มต้น และมี Upside สูงมากหากขยายเพิ่ม
 
@@ -210,19 +221,19 @@
 
 &emsp;กราฟ Area แสดงภาพระยะยาวของการเดินทางในมะนิลาตลอด 25 ปี ช่วยให้เห็นว่าความต้องการระบบขนส่งเพิ่มขึ้นมาอย่างไร และ COVID กระทบหนักแค่ไหน
 
-> 📊 *รันกราฟได้ที่* [`ASEAN_Part5_Manila_Fig17-20.ipynb`](ASEAN_Part5_Manila_Fig17-20.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kaitokidbua/ASEAN_Transport/blob/main/ASEAN_Part5_Manila_Fig17-20.ipynb)
 
 ### ภาพที่ 18 — สัดส่วนผู้โดยสารจำแนกตามยุค มะนิลา
 
 &emsp;แทนที่จะแยก Mode (เพราะมีแค่ระบบเดียว) กราฟนี้จึงแบ่งข้อมูลตาม 3 ยุค ได้แก่ ก่อน COVID / ระหว่าง COVID / หลัง COVID เพื่อให้เห็นสัดส่วนของแต่ละช่วงชัดเจน
 
-> 📊 *รันกราฟได้ที่* [`ASEAN_Part5_Manila_Fig17-20.ipynb`](ASEAN_Part5_Manila_Fig17-20.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kaitokidbua/ASEAN_Transport/blob/main/ASEAN_Part5_Manila_Fig17-20.ipynb)
 
 ### ภาพที่ 19–20 — ผู้โดยสารรายปี และ YoY มะนิลา (2015–2024)
 
 &emsp;กราฟ 2 ตัวนี้เน้นช่วงล่าสุด 10 ปี เพื่อให้เห็นแนวโน้มใกล้ชิดมากขึ้น และเปรียบเทียบอัตราการเปลี่ยนแปลงปีต่อปี
 
-> 📊 *รันกราฟได้ที่* [`ASEAN_Part5_Manila_Fig17-20.ipynb`](ASEAN_Part5_Manila_Fig17-20.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kaitokidbua/ASEAN_Transport/blob/main/ASEAN_Part5_Manila_Fig17-20.ipynb)
 
 > 📌 **สรุป:** ภาพ 25 ปีบอกว่ามะนิลาเติบโตอย่างช้าๆ แต่มั่นคง จนกระทั่ง COVID ทำให้ตัวเลขดิ่งลง -67% ในปี 2020 ซึ่งหนักกว่าทุกเมืองในกลุ่ม และการฟื้นตัวก็ช้ากว่า ในปี 2024 มะนิลายังไม่กลับมาถึงระดับ Pre-COVID สะท้อนว่าปัญหาขีดความสามารถของระบบ Rail ที่มีอยู่จำกัดกำลังฉุดรั้งการฟื้นตัว
 
@@ -241,7 +252,7 @@
 
 &emsp;กราฟเส้นแสดงผู้โดยสารรวมรายปีของทั้ง 5 เมืองไว้ในกราฟเดียวกัน ช่วยให้เห็นว่าทุกเมือง "หายใจพร้อมกัน" หรือมีทิศทางแตกต่างกัน
 
-> 📊 *รันกราฟได้ที่* [`ASEAN_Part6_EconomicGrowth_Fig21-23.ipynb`](ASEAN_Part6_EconomicGrowth_Fig21-23.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kaitokidbua/ASEAN_Transport/blob/main/ASEAN_Part6_EconomicGrowth_Fig21-23.ipynb)
 
 > 📌 **สรุป:** ทุกเมืองดิ่งลงพร้อมกันในปี 2020 และฟื้นตัวขึ้นมาพร้อมกันในปี 2022 เหมือนคลื่นที่ขึ้นลงพร้อมกัน — นี่คือหลักฐานชัดเจนว่าระบบขนส่งสะท้อนชีพจรเศรษฐกิจได้จริง
 
@@ -251,7 +262,7 @@
 
 &emsp;กราฟ Grouped Bar เปรียบเทียบ YoY Growth ของทุกเมืองในปีเดียวกัน ช่วยให้เห็นว่าเมืองไหนฟื้นตัวเร็วหรือช้ากว่ากัน
 
-> 📊 *รันกราฟได้ที่* [`ASEAN_Part6_EconomicGrowth_Fig21-23.ipynb`](ASEAN_Part6_EconomicGrowth_Fig21-23.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kaitokidbua/ASEAN_Transport/blob/main/ASEAN_Part6_EconomicGrowth_Fig21-23.ipynb)
 
 > 📌 **สรุป:** ปี 2022 Bangkok มี YoY Growth สูงที่สุดในกลุ่ม สะท้อนการเปิดประเทศและการท่องเที่ยวที่กลับมา ขณะที่ Singapore มีการฟื้นตัวที่เสถียรกว่า แสดงถึงระบบเศรษฐกิจที่มีความยืดหยุ่นสูง
 
@@ -261,7 +272,7 @@
 
 &emsp;กราฟ Scatter วิเคราะห์ว่า GDP สูงกว่า → มีผู้โดยสารมากกว่าจริงไหม โดยใช้ขนาดวงกลมแทนจำนวนผู้โดยสาร และมี Trendline แสดงทิศทาง
 
-> 📊 *รันกราฟได้ที่* [`ASEAN_Part6_EconomicGrowth_Fig21-23.ipynb`](ASEAN_Part6_EconomicGrowth_Fig21-23.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kaitokidbua/ASEAN_Transport/blob/main/ASEAN_Part6_EconomicGrowth_Fig21-23.ipynb)
 
 > 📌 **สรุป:** มีความสัมพันธ์เชิงบวกระหว่าง GDP และจำนวนผู้โดยสารในทุกเมือง **ยืนยันว่าระบบขนส่งสะท้อนกิจกรรมทางเศรษฐกิจ** Singapore แสดงความสัมพันธ์ที่เด่นชัดมาก ขณะที่ Bangkok และ KL มีแนวโน้มเพิ่มขึ้นสอดคล้องกับ GDP ที่เติบโตต่อเนื่อง
 
@@ -280,7 +291,7 @@
 
 &emsp;Compound Annual Growth Rate (CAGR) คืออัตราเติบโตต่อปีแบบทบต้น ช่วยเปรียบเทียบได้อย่างยุติธรรม โดยไม่ได้รับผลกระทบจากความผันผวนในปีใดปีหนึ่ง เส้นประแทน Singapore Benchmark
 
-> 📊 *รันกราฟได้ที่* [`ASEAN_Part7_DevelopmentGap_Fig24-26.ipynb`](ASEAN_Part7_DevelopmentGap_Fig24-26.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kaitokidbua/ASEAN_Transport/blob/main/ASEAN_Part7_DevelopmentGap_Fig24-26.ipynb)
 
 > 📌 **สรุป:** **Bangkok และ Kuala Lumpur มี CAGR สูงกว่า Singapore อย่างชัดเจน** สอดคล้องกับทฤษฎี Catch-up Dynamics Singapore มี CAGR ต่ำกว่า ไม่ใช่เพราะระบบแย่ลง แต่เพราะ **ระบบอิ่มตัวแล้ว** (Mature Market)
 
@@ -290,7 +301,7 @@
 
 &emsp;เพื่อเปรียบเทียบที่เป็นธรรมระหว่างเมืองที่มีขนาดประชากรต่างกัน จึงใช้ Passenger per Capita เป็นตัวชี้วัด ซึ่งแสดงระดับการพึ่งพาระบบขนส่งสาธารณะของแต่ละเมืองได้ชัดเจนกว่า
 
-> 📊 *รันกราฟได้ที่* [`ASEAN_Part7_DevelopmentGap_Fig24-26.ipynb`](ASEAN_Part7_DevelopmentGap_Fig24-26.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kaitokidbua/ASEAN_Transport/blob/main/ASEAN_Part7_DevelopmentGap_Fig24-26.ipynb)
 
 > 📌 **สรุป:** **Singapore มี Passenger per Capita สูงกว่าเมืองอื่นอย่างมีนัยสำคัญ** (~450 เที่ยว/คน/ปี) Bangkok เติบโตต่อเนื่องแต่ยังอยู่ที่ ~48 เที่ยว/คน/ปี — ช่องว่างนี้บ่งบอกว่ายังมีพื้นที่เติบโตอีกมาก
 
@@ -300,7 +311,7 @@
 
 &emsp;กราฟ Index ปรับฐานปี 2021 = 100 เพื่อเปรียบเทียบ "ความเร็วในการเติบโต" อย่างเป็นธรรม โดยไม่สนใจขนาดสัมบูรณ์ที่ต่างกัน
 
-> 📊 *รันกราฟได้ที่* [`ASEAN_Part7_DevelopmentGap_Fig24-26.ipynb`](ASEAN_Part7_DevelopmentGap_Fig24-26.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kaitokidbua/ASEAN_Transport/blob/main/ASEAN_Part7_DevelopmentGap_Fig24-26.ipynb)
 
 > 📌 **สรุป:** เมื่อปรับ Base = 100 จะเห็นว่า **Bangkok มี Growth Index สูงที่สุดในปี 2024** (ประมาณ 300) ขณะที่ Singapore อยู่ที่ ~142 ทุกเมืองมีแนวโน้มเพิ่มขึ้นในปี 2021–2024 ยืนยันการฟื้นตัวหลัง COVID อย่างต่อเนื่อง
 
