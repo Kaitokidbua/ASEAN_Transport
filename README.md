@@ -261,10 +261,9 @@
 ### ภาพที่ 21 — แนวโน้มผู้โดยสารรายปี ทั้ง 5 เมือง (2019–2025)
 
 &emsp;กราฟเส้นแสดงผู้โดยสารรวมรายปีของทั้ง 5 เมืองไว้ในกราฟเดียวกัน ช่วยให้เห็นว่าทุกเมือง "หายใจพร้อมกัน" หรือมีทิศทางแตกต่างกัน
+<img width="877" height="480" alt="newplot (20)" src="https://github.com/user-attachments/assets/2c66abd7-0b21-497c-b395-3d7138b9f27d" />
 
-[![ภาพที่ 21 — คลิกเพื่อดูกราฟ Interactive](https://raw.githubusercontent.com/Kaitokidbua/ASEAN_Transport/main/img/fig21.png)](https://kaitokidbua.github.io/ASEAN_Transport/charts/fig21-23_economic.html)
 
-> 🖱️ *คลิกที่กราฟเพื่อเปิดเวอร์ชัน Interactive (hover & zoom ได้)*
 
 > 📌 **สรุป:** ทุกเมืองดิ่งลงพร้อมกันในปี 2020 และฟื้นตัวขึ้นมาพร้อมกันในปี 2022 เหมือนคลื่นที่ขึ้นลงพร้อมกัน — นี่คือหลักฐานชัดเจนว่าระบบขนส่งสะท้อนชีพจรเศรษฐกิจได้จริง
 
@@ -273,10 +272,9 @@
 ### ภาพที่ 22 — อัตราการเปลี่ยนแปลง YoY ทั้ง 5 เมือง
 
 &emsp;กราฟ Grouped Bar เปรียบเทียบ YoY Growth ของทุกเมืองในปีเดียวกัน ช่วยให้เห็นว่าเมืองไหนฟื้นตัวเร็วหรือช้ากว่ากัน
+<img width="877" height="480" alt="newplot (21)" src="https://github.com/user-attachments/assets/f8b8b690-9753-42e0-8fa7-a45535df5b55" />
 
-[![ภาพที่ 22 — คลิกเพื่อดูกราฟ Interactive](https://raw.githubusercontent.com/Kaitokidbua/ASEAN_Transport/main/img/fig22.png)](https://kaitokidbua.github.io/ASEAN_Transport/charts/fig21-23_economic.html)
 
-> 🖱️ *คลิกที่กราฟเพื่อเปิดเวอร์ชัน Interactive (hover & zoom ได้)*
 
 > 📌 **สรุป:** ปี 2022 Bangkok มี YoY Growth สูงที่สุดในกลุ่ม สะท้อนการเปิดประเทศและการท่องเที่ยวที่กลับมา ขณะที่ Singapore มีการฟื้นตัวที่เสถียรกว่า แสดงถึงระบบเศรษฐกิจที่มีความยืดหยุ่นสูง
 
@@ -285,10 +283,9 @@
 ### ภาพที่ 23 — ความสัมพันธ์ระหว่างผู้โดยสารกับ GDP (2021–2024)
 
 &emsp;กราฟ Scatter วิเคราะห์ว่า GDP สูงกว่า → มีผู้โดยสารมากกว่าจริงไหม โดยใช้ขนาดวงกลมแทนจำนวนผู้โดยสาร และมี Trendline แสดงทิศทาง
+<img width="877" height="520" alt="newplot (22)" src="https://github.com/user-attachments/assets/65a44c29-883d-493e-82d1-04e4f80d7280" />
 
-[![ภาพที่ 23 — คลิกเพื่อดูกราฟ Interactive](https://raw.githubusercontent.com/Kaitokidbua/ASEAN_Transport/main/img/fig23.png)](https://kaitokidbua.github.io/ASEAN_Transport/charts/fig21-23_economic.html)
 
-> 🖱️ *คลิกที่กราฟเพื่อเปิดเวอร์ชัน Interactive (hover & zoom ได้)*
 
 > 📌 **สรุป:** มีความสัมพันธ์เชิงบวกระหว่าง GDP และจำนวนผู้โดยสารในทุกเมือง **ยืนยันว่าระบบขนส่งสะท้อนกิจกรรมทางเศรษฐกิจ** Singapore แสดงความสัมพันธ์ที่เด่นชัดมาก ขณะที่ Bangkok และ KL มีแนวโน้มเพิ่มขึ้นสอดคล้องกับ GDP ที่เติบโตต่อเนื่อง
 
