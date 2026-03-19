@@ -227,25 +227,23 @@
 
 &emsp;กราฟ Area แสดงภาพระยะยาวของการเดินทางในมะนิลาตลอด 25 ปี ช่วยให้เห็นว่าความต้องการระบบขนส่งเพิ่มขึ้นมาอย่างไร และ COVID กระทบหนักแค่ไหน
 
-[![ภาพที่ 17 — คลิกเพื่อดูกราฟ Interactive](https://raw.githubusercontent.com/Kaitokidbua/ASEAN_Transport/main/img/fig17.png)](https://kaitokidbua.github.io/ASEAN_Transport/charts/fig17-20_manila.html)
+<img width="877" height="440" alt="newplot (16)" src="https://github.com/user-attachments/assets/d75b5a34-99f7-44d1-a9e2-2719427427b6" />
 
-> 🖱️ *คลิกที่กราฟเพื่อเปิดเวอร์ชัน Interactive (hover & zoom ได้)*
 
 ### ภาพที่ 18 — สัดส่วนผู้โดยสารจำแนกตามยุค มะนิลา
 
 &emsp;แทนที่จะแยก Mode (เพราะมีแค่ระบบเดียว) กราฟนี้จึงแบ่งข้อมูลตาม 3 ยุค ได้แก่ ก่อน COVID / ระหว่าง COVID / หลัง COVID เพื่อให้เห็นสัดส่วนของแต่ละช่วงชัดเจน
+<img width="877" height="460" alt="newplot (17)" src="https://github.com/user-attachments/assets/60e84c6f-189e-4003-b696-60adbe5a14ae" />
 
-[![ภาพที่ 18 — คลิกเพื่อดูกราฟ Interactive](https://raw.githubusercontent.com/Kaitokidbua/ASEAN_Transport/main/img/fig18.png)](https://kaitokidbua.github.io/ASEAN_Transport/charts/fig17-20_manila.html)
 
-> 🖱️ *คลิกที่กราฟเพื่อเปิดเวอร์ชัน Interactive (hover & zoom ได้)*
 
 ### ภาพที่ 19–20 — ผู้โดยสารรายปี และ YoY มะนิลา (2015–2024)
 
 &emsp;กราฟ 2 ตัวนี้เน้นช่วงล่าสุด 10 ปี เพื่อให้เห็นแนวโน้มใกล้ชิดมากขึ้น และเปรียบเทียบอัตราการเปลี่ยนแปลงปีต่อปี
+<img width="877" height="460" alt="newplot (18)" src="https://github.com/user-attachments/assets/bcae5af0-c362-415f-8627-9845c6040080" />
+<img width="877" height="440" alt="newplot (19)" src="https://github.com/user-attachments/assets/35d4e913-b3c3-4691-be50-398ec7505d1e" />
 
-[![ภาพที่ 19 — คลิกเพื่อดูกราฟ Interactive](https://raw.githubusercontent.com/Kaitokidbua/ASEAN_Transport/main/img/fig19.png)](https://kaitokidbua.github.io/ASEAN_Transport/charts/fig17-20_manila.html)
 
-> 🖱️ *คลิกที่กราฟเพื่อเปิดเวอร์ชัน Interactive (hover & zoom ได้)*
 
 > 📌 **สรุป:** ภาพ 25 ปีบอกว่ามะนิลาเติบโตอย่างช้าๆ แต่มั่นคง จนกระทั่ง COVID ทำให้ตัวเลขดิ่งลง -67% ในปี 2020 ซึ่งหนักกว่าทุกเมืองในกลุ่ม และการฟื้นตัวก็ช้ากว่า ในปี 2024 มะนิลายังไม่กลับมาถึงระดับ Pre-COVID สะท้อนว่าปัญหาขีดความสามารถของระบบ Rail ที่มีอยู่จำกัดกำลังฉุดรั้งการฟื้นตัว
 
