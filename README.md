@@ -79,9 +79,8 @@
 
 &emsp;กราฟ Area Chart นี้เหมือนการวัดชีพจรของกรุงเทพฯ — แต่ละเดือนบอกว่าคนออกไปข้างนอกมากน้อยแค่ไหน ในปี 2021 ตัวเลขยังต่ำมากเพราะ Lockdown ยังไม่คลาย แต่พอเข้าสู่ปี 2022 เป็นต้นมา เมืองค่อยๆ ฟื้นชีวิตกลับมา
 
-[![ภาพที่ 1 — คลิกเพื่อดูกราฟ Interactive](https://raw.githubusercontent.com/Kaitokidbua/ASEAN_Transport/main/img/fig01.png)](https://kaitokidbua.github.io/ASEAN_Transport/charts/fig1-4_bangkok.html)
+<img width="877" height="420" alt="newplot" src="https://github.com/user-attachments/assets/9e575b2d-2553-49ef-9f95-a805d66d4aef" />
 
-> 🖱️ *คลิกที่กราฟเพื่อเปิดเวอร์ชัน Interactive (hover & zoom ได้)*
 
 > 📌 **สรุป:** จากช่วงต่ำสุด ~6 ล้านเที่ยว/เดือน ในกลางปี 2021 กรุงเทพฯ ฟื้นตัวขึ้นมาถึง **~50 ล้านเที่ยว/เดือน** ในปี 2025 หรือเพิ่มขึ้นกว่า **8 เท่า** ในเวลาเพียง 4 ปี นอกจากนี้ยังเห็น Seasonal Pattern ชัด — ตัวเลขมักลดลงช่วงพฤษภาคม–สิงหาคม (ฤดูฝน) และสูงในช่วงต้นปี
 
