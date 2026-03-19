@@ -312,7 +312,18 @@
 
 
 
-หมีเนยยยยย
+## หมีเนยยยยย
+
+### ภาพที่ 27 — Urban Scale
+<img width="784" height="584" alt="urban scale" src="https://github.com/user-attachments/assets/232bdc22-6fe8-4415-a19e-abb720be2aa5" />
+
+### ภาพที่ 28 — Average Daily Ridership
+<img width="784" height="584" alt="Ridership" src="https://github.com/user-attachments/assets/0aadc43a-f411-4464-98e3-e7f20a537552" />
+
+
+### ภาพที่ 29 — Utilization (Ridership per Capita)
+<img width="784" height="584" alt="Utilization" src="https://github.com/user-attachments/assets/0395f0af-984f-485a-abc5-78d630ac51d7" />
+
 
 
 > 📌 **สรุป:** จากผลการวิเคราะห์ ประชากรเป็นตัวกำหนดความต้องการ (Demand) ได้จริง แต่ไม่ได้เป็นปัจจัยเดียวและไม่ได้เป็นไปในทิศทางเดียวกันในทุกบริบท" โดยเราพบรูปแบบการเติบโต 2 ลักษณะจากข้อมูล:
