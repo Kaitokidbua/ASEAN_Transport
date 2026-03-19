@@ -181,9 +181,9 @@
 
 <img width="877" height="460" alt="newplot (9)" src="https://github.com/user-attachments/assets/9b750766-3ad4-4c12-99aa-b155e1fac050" />
 
-<img width="877" height="460" alt="newplot (10)" src="https://github.com/user-attachments/assets/faed6ead-ac15-4bc6-aba5-b13f911ed567" />
+<img width="1200" height="460" alt="newplot (10)" src="https://github.com/user-attachments/assets/0c9590d7-8948-47a6-95f9-9882e5abedff" />
 
-<img width="877" height="460" alt="newplot (11)" src="https://github.com/user-attachments/assets/88094307-4700-489e-af08-653adc53b169" />
+<img width="1200" height="460" alt="newplot (11)" src="https://github.com/user-attachments/assets/1e543c78-b482-4911-b514-efcde1e599ca" />
 
 
 
