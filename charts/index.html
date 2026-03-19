@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ASEAN Transport Charts</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #0d1117;
+      color: #e6edf3;
+      padding: 40px 24px;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    h1 { color: #58a6ff; font-size: 1.6rem; margin-bottom: 8px; }
+    .sub { color: #8b949e; margin-bottom: 40px; font-size: 0.95rem; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 16px; }
+    .card {
+      background: #161b22;
+      border: 1px solid #21262d;
+      border-radius: 12px;
+      padding: 20px;
+      text-decoration: none;
+      color: inherit;
+      transition: border-color 0.2s, transform 0.2s;
+    }
+    .card:hover { border-color: #58a6ff; transform: translateY(-2px); }
+    .card .emoji { font-size: 2rem; margin-bottom: 10px; }
+    .card h2 { font-size: 1rem; color: #e6edf3; margin-bottom: 6px; }
+    .card p { font-size: 0.8rem; color: #8b949e; }
+    .footer { text-align: center; color: #8b949e; font-size: 0.8rem; margin-top: 60px; }
+  </style>
+</head>
+<body>
+  <h1>🚇 ASEAN Transport — Interactive Charts</h1>
+  <p class="sub">Urban Growth Dynamics of ASEAN Megacities · คลิกที่เมืองเพื่อดูกราฟ Interactive</p>
+
+  <div class="grid">
+    <a class="card" href="fig1-4_bangkok.html">
+      <div class="emoji">🇹🇭</div>
+      <h2>Part 1 — กรุงเทพมหานคร</h2>
+      <p>4 charts · Fig 1–4</p>
+    </a>
+    <a class="card" href="fig5-8_singapore.html">
+      <div class="emoji">🇸🇬</div>
+      <h2>Part 2 — สิงคโปร์</h2>
+      <p>4 charts · Fig 5–8</p>
+    </a>
+    <a class="card" href="fig9-12_kualalumpur.html">
+      <div class="emoji">🇲🇾</div>
+      <h2>Part 3 — กัวลาลัมเปอร์</h2>
+      <p>4 charts · Fig 9–12</p>
+    </a>
+    <a class="card" href="fig13-16_jakarta.html">
+      <div class="emoji">🇮🇩</div>
+      <h2>Part 4 — จาการ์ตา</h2>
+      <p>4 charts · Fig 13–16</p>
+    </a>
+    <a class="card" href="fig17-20_manila.html">
+      <div class="emoji">🇵🇭</div>
+      <h2>Part 5 — มะนิลา</h2>
+      <p>4 charts · Fig 17–20</p>
+    </a>
+    <a class="card" href="fig21-23_economic.html">
+      <div class="emoji">📈</div>
+      <h2>Part 6 — Economic Growth</h2>
+      <p>3 charts · Fig 21–23</p>
+    </a>
+    <a class="card" href="fig24-26_development.html">
+      <div class="emoji">🏗️</div>
+      <h2>Part 7 — Development Gap</h2>
+      <p>3 charts · Fig 24–26</p>
+    </a>
+  </div>
+
+  <div class="footer">DADS Mini-Project | Python · Plotly · pandas</div>
+</body>
+</html>
