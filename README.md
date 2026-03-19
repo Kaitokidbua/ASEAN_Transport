@@ -314,6 +314,9 @@
 
 ## หมีเนยยยยย
 
+## Part 8 — Urban Scale 💹
+### ขนาดประชากรและ Demand ในการใช้ขนส่งสาธารณะ — มีความสัมพันธ์กันจริงไหม?
+
 ### ภาพที่ 27 — Urban Scale
 <img width="784" height="584" alt="urban scale" src="https://github.com/user-attachments/assets/232bdc22-6fe8-4415-a19e-abb720be2aa5" />
 
@@ -324,6 +327,11 @@
 ### ภาพที่ 29 — Utilization (Ridership per Capita)
 <img width="784" height="584" alt="Utilization" src="https://github.com/user-attachments/assets/0395f0af-984f-485a-abc5-78d630ac51d7" />
 
+### ภาพที่ 30 — Urban Scale vs Transport Utilization
+<img width="1062" height="705" alt="Urban scale vs Utilization" src="https://github.com/user-attachments/assets/7488ff02-5641-430e-94c6-b7df984eae1e" />
+
+### ภาพที่ 31 และ 32 — เปรียบเทียบ Corrlation Case A: All cities v Case B: Excluding Singapore
+<img width="1781" height="684" alt="ridership per capita 2 cases" src="https://github.com/user-attachments/assets/482809e2-05fb-4262-a08d-6139d59f7748" />
 
 
 > 📌 **สรุป:** จากผลการวิเคราะห์ ประชากรเป็นตัวกำหนดความต้องการ (Demand) ได้จริง แต่ไม่ได้เป็นปัจจัยเดียวและไม่ได้เป็นไปในทิศทางเดียวกันในทุกบริบท" โดยเราพบรูปแบบการเติบโต 2 ลักษณะจากข้อมูล:
@@ -336,9 +344,25 @@
 
 ผลการวิเคราะห์ชี้ให้เห็นว่า ประชากรมีความสัมพันธ์เชิงบวกอย่างแข็งแกร่งกับยอดผู้โดยสารในกลุ่มประเทศกำลังพัฒนาส่วนใหญ่ ($r = 0.86$) อย่างไรก็ตาม ความเป็น Outlier ของสิงคโปร์ที่มียอดผู้โดยสารสูงแม้ประชากรจะน้อย ทำให้เห็นว่า Demand ของการขนส่งไม่ได้ขึ้นอยู่กับขนาดประชากรเพียงอย่างเดียว แต่ยังมีปัจจัยเชิงโครงสร้างหรือเชิงเศรษฐกิจอื่นๆ (เช่น GDP หรือความหนาแน่น) ที่ส่งผลต่อการใช้งานระบบขนส่งสาธารณะมากกว่าจำนวนประชากรเพียงอย่างเดียว
 
-
+## Part 9 — Environmental Pressure 💹
+### มลพิษมีส่วนกระตุ้นให้คนหันมาใช้ขนส่งสาธารณะจริงไหม?
 
 เมื่อค่า PM 2.5 สูงขึ้น ผลกระทบด้านสุขภาพของการเดินทางแบบเปิด (Open-mode) เช่น การขี่มอเตอร์ไซค์ หรือการเดิน สามารถพุเพิ่มสูงขึ้น ผู้เดินทางจึงอาจจะมองหาทาเลือกที่ลดความเสี่ยงนี้ และในช่วงวิกฤตฝุ่น ผู้เดินทางไม่ได้แค่ต้องการความเร็ว แต่ต้องการ "Minimal Exposure Time" (เวลาที่ต้องสัมผัสอากาศภายนอกน้อยที่สุด) รถไฟฟ้าที่มีตารางเวลาแน่นอนกว่าเมื่อเทียบกับรถยนต์ส่วนตัว ที่อาจต้องติดอยู่บนถนนและรับมลพิษจากท่อไอเสียคันข้างหน้าเป็นเวลานานกว่า
+
+### ภาพที่ 33 — Time Series Analysis
+<img width="1484" height="1984" alt="PM2 5 time series" src="https://github.com/user-attachments/assets/ef3b5648-c5db-4051-ab96-74c460e3f386" />
+
+### ภาพที่ 34-38 — Correlation: PM2.5 vs Ridership
+<img width="784" height="483" alt="PM2 5 corr" src="https://github.com/user-attachments/assets/fc1c650e-0c75-4f97-9645-1a8bf30f20ba" />
+
+<img width="784" height="483" alt="PM2 5 corr Indo" src="https://github.com/user-attachments/assets/b10e1757-5349-496d-860f-d7e8a12b2843" />
+
+<img width="784" height="483" alt="PM2 5 corr Malaysia" src="https://github.com/user-attachments/assets/d2e7602e-15f5-4d94-9f11-b508c21d23f3" />
+
+<img width="784" height="483" alt="PM2 5 corr Manila" src="https://github.com/user-attachments/assets/70769cd6-5af2-48b1-b6f2-9008be731d28" />
+
+<img width="784" height="483" alt="PM2 5 corr SG" src="https://github.com/user-attachments/assets/735c5cb4-2658-47ff-8e11-f9d71535cfe2" />
+
 
 > 📌 **สรุป:** จากการวิเคราะห์ความสัมพันธ์ (Correlation) ระหว่างระดับฝุ่น PM 2.5 และยอดผู้โดยสาร (Ridership) ใน 5 เมืองหลัก เราสามารถจำแนกพฤติกรรมและความสำคัญของระบบขนส่งมวลชนออกเป็น 3 รูปแบบหลัก ดังนี้:
 
