@@ -1,4 +1,4 @@
-<img width="877" height="420" alt="newplot (8)" src="https://github.com/user-attachments/assets/ff5fd7f9-b3a0-4bbf-b612-5e096c7734e5" /># 🚇 Urban Growth Dynamics of ASEAN Megacities
+# 🚇 Urban Growth Dynamics of ASEAN Megacities
 ## Through the Lens of Public Transport Ridership
 ### การวิเคราะห์การเติบโตของมหานครอาเซียนผ่านเลนส์ระบบขนส่งสาธารณะ
 
