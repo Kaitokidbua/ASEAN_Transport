@@ -1,4 +1,4 @@
-# 🚇 Urban Growth Dynamics of ASEAN Megacities
+<img width="877" height="420" alt="newplot (8)" src="https://github.com/user-attachments/assets/ff5fd7f9-b3a0-4bbf-b612-5e096c7734e5" /># 🚇 Urban Growth Dynamics of ASEAN Megacities
 ## Through the Lens of Public Transport Ridership
 ### การวิเคราะห์การเติบโตของมหานครอาเซียนผ่านเลนส์ระบบขนส่งสาธารณะ
 
@@ -175,12 +175,17 @@
 ---
 
 ### ภาพที่ 9–12 — กัวลาลัมเปอร์ (Monthly / Mode Share / Stacked / YoY)
-
 &emsp;ชุดกราฟ 4 ตัวนี้วิเคราะห์กัวลาลัมเปอร์ในมิติเดียวกับกรุงเทพฯ และสิงคโปร์ เพื่อให้เปรียบเทียบได้ตรงกัน โดยเน้น Top 5 Modes ที่มีผู้ใช้สูงสุด
 
-[![ภาพที่ 9 — คลิกเพื่อดูกราฟ Interactive](https://raw.githubusercontent.com/Kaitokidbua/ASEAN_Transport/main/img/fig09.png)](https://kaitokidbua.github.io/ASEAN_Transport/charts/fig9-12_kualalumpur.html)
+<img width="877" height="420" alt="newplot (8)" src="https://github.com/user-attachments/assets/43f824f8-da97-4113-b886-9faeacafc2a3" />
 
-> 🖱️ *คลิกที่กราฟเพื่อเปิดเวอร์ชัน Interactive (hover & zoom ได้)*
+<img width="877" height="460" alt="newplot (9)" src="https://github.com/user-attachments/assets/9b750766-3ad4-4c12-99aa-b155e1fac050" />
+
+<img width="877" height="460" alt="newplot (10)" src="https://github.com/user-attachments/assets/faed6ead-ac15-4bc6-aba5-b13f911ed567" />
+
+<img width="877" height="460" alt="newplot (11)" src="https://github.com/user-attachments/assets/88094307-4700-489e-af08-653adc53b169" />
+
+
 
 > 📌 **สรุป:** KL เผชิญการล็อกดาวน์ที่ยาวนานกว่าชาติอื่น ทำให้ปี 2021 ตัวเลขผู้โดยสารต่ำสุดในกลุ่ม แต่พอปี 2022 เปิดเมืองได้เต็มที่ กลับมีการฟื้นตัวแบบ **"กระโจน"** โดย YoY ปี 2022 พุ่งขึ้นกว่า +200% สะท้อนความต้องการที่อัดอั้นมานาน LRT Kelana Jaya และ MRT Kajang ครองสัดส่วนหลัก แต่ระบบมีความหลากหลายสูง ทำให้ยากต่อการบริหารจัดการแบบบูรณาการ
 
