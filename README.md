@@ -67,23 +67,6 @@
 
 ---
 
-## 📊 Interactive Charts — คลิกเพื่อดูกราฟ
-
-> กราฟด้านล่างเป็น **Plotly Interactive** — hover, zoom, และ filter ได้ทุกกราฟ 🎉
-
-| เมือง / หัวข้อ | Figures | Interactive Link |
-|----------------|---------|-----------------|
-| 🇹🇭 กรุงเทพมหานคร | Fig 1–4 | [![Bangkok](https://img.shields.io/badge/▶%20Bangkok%20Charts-0077B5?style=for-the-badge&logo=plotly&logoColor=white)](https://kaitokidbua.github.io/ASEAN_Transport/charts/fig1-4_bangkok.html) |
-| 🇸🇬 สิงคโปร์ | Fig 5–8 | [![Singapore](https://img.shields.io/badge/▶%20Singapore%20Charts-EF4444?style=for-the-badge&logo=plotly&logoColor=white)](https://kaitokidbua.github.io/ASEAN_Transport/charts/fig5-8_singapore.html) |
-| 🇲🇾 กัวลาลัมเปอร์ | Fig 9–12 | [![KL](https://img.shields.io/badge/▶%20KL%20Charts-22C55E?style=for-the-badge&logo=plotly&logoColor=white)](https://kaitokidbua.github.io/ASEAN_Transport/charts/fig9-12_kualalumpur.html) |
-| 🇮🇩 จาการ์ตา | Fig 13–16 | [![Jakarta](https://img.shields.io/badge/▶%20Jakarta%20Charts-F97316?style=for-the-badge&logo=plotly&logoColor=white)](https://kaitokidbua.github.io/ASEAN_Transport/charts/fig13-16_jakarta.html) |
-| 🇵🇭 มะนิลา | Fig 17–20 | [![Manila](https://img.shields.io/badge/▶%20Manila%20Charts-EAB308?style=for-the-badge&logo=plotly&logoColor=white)](https://kaitokidbua.github.io/ASEAN_Transport/charts/fig17-20_manila.html) |
-| 📈 Economic Growth | Fig 21–23 | [![Economic](https://img.shields.io/badge/▶%20Economic%20Charts-8B5CF6?style=for-the-badge&logo=plotly&logoColor=white)](https://kaitokidbua.github.io/ASEAN_Transport/charts/fig21-23_economic.html) |
-| 🏗️ Development Gap | Fig 24–26 | [![Development](https://img.shields.io/badge/▶%20Development%20Charts-EC4899?style=for-the-badge&logo=plotly&logoColor=white)](https://kaitokidbua.github.io/ASEAN_Transport/charts/fig24-26_development.html) |
-
-> 🗂️ [**ดูกราฟทั้งหมดในหน้าเดียว →**](https://kaitokidbua.github.io/ASEAN_Transport/charts/index.html)
-
-
 
 ## Part 1 — กรุงเทพมหานคร 🇹🇭
 ### โครงสร้างการเดินทางในกรุงเทพฯ เป็นอย่างไร?
