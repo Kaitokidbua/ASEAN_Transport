@@ -78,7 +78,8 @@
 ### ภาพที่ 1 — แนวโน้มผู้โดยสารรายเดือน กรุงเทพฯ (2021–2025)
 
 &emsp;กราฟ Area Chart นี้เหมือนการวัดชีพจรของกรุงเทพฯ — แต่ละเดือนบอกว่าคนออกไปข้างนอกมากน้อยแค่ไหน ในปี 2021 ตัวเลขยังต่ำมากเพราะ Lockdown ยังไม่คลาย แต่พอเข้าสู่ปี 2022 เป็นต้นมา เมืองค่อยๆ ฟื้นชีวิตกลับมา
-<img width="507" height="420" alt="newplot" src="https://github.com/user-attachments/assets/a6d7598b-575e-4e50-bf37-2d9c37c67483" />
+<img width="877" height="420" alt="newplot" src="https://github.com/user-attachments/assets/f8de0d81-7828-448b-b3c8-829cafbbea92" />
+
 
 
 
@@ -89,7 +90,8 @@
 ### ภาพที่ 2 — สัดส่วนการใช้งานแต่ละระบบขนส่ง กรุงเทพฯ (2021–2025)
 
 &emsp;กราฟ Donut Chart แสดงว่าถ้านับผู้โดยสารทั้งหมดในช่วง 4 ปีที่ผ่านมา แต่ละระบบมีส่วนแบ่งเท่าไหร่ จะเห็นได้ว่าระบบไหนที่คนกรุงเทพฯ "เลือก" ใช้จริงๆ ในชีวิตประจำวัน
-<img width="507" height="460" alt="newplot (1)" src="https://github.com/user-attachments/assets/c8c9affe-d64b-4279-bb48-c466cd58e550" />
+<img width="877" height="460" alt="newplot (1)" src="https://github.com/user-attachments/assets/c9e03972-def8-4669-aa92-eb8ec92c5127" />
+
 
 
 > 🖱️ *คลิกที่กราฟเพื่อเปิดเวอร์ชัน Interactive (hover & zoom ได้)*
@@ -101,7 +103,8 @@
 ### ภาพที่ 3 — ผู้โดยสารแต่ละระบบจำแนกรายปี กรุงเทพฯ
 
 &emsp;กราฟแท่งซ้อนช่วยให้เห็นทั้ง "ขนาดรวม" และ "โครงสร้างภายใน" ไปพร้อมกัน สังเกตดูว่าในแต่ละปี สัดส่วนของแต่ละสายเปลี่ยนไปอย่างไรบ้าง โดยเฉพาะสายใหม่ที่เพิ่งเปิดในปี 2023
-<img width="507" height="460" alt="newplot (2)" src="https://github.com/user-attachments/assets/6bf7454e-ed92-44a1-8c96-be21d3b578e2" />
+<img width="877" height="460" alt="newplot (2)" src="https://github.com/user-attachments/assets/e7eff640-b040-4f74-b0df-60aa4071ff67" />
+
 
 
 > 🖱️ *คลิกที่กราฟเพื่อเปิดเวอร์ชัน Interactive (hover & zoom ได้)*
@@ -113,7 +116,8 @@
 ### ภาพที่ 4 — อัตราการเปลี่ยนแปลง YoY แต่ละระบบ กรุงเทพฯ
 
 &emsp;กราฟนี้ตอบคำถามว่า แต่ละสายรถไฟฟ้า "โตเร็วแค่ไหน" เมื่อเทียบปีต่อปี บางสายอาจตัวเลขรวมน้อย แต่โตเร็วมาก ซึ่งบ่งบอกถึงศักยภาพในอนาคต
-<img width="507" height="460" alt="newplot (3)" src="https://github.com/user-attachments/assets/e22778fe-aa1c-427f-b585-ddb7316b07df" />
+<img width="877" height="460" alt="newplot (3)" src="https://github.com/user-attachments/assets/0117c016-5f68-47f3-9a97-5d3304519bac" />
+
 
 
 > 🖱️ *คลิกที่กราฟเพื่อเปิดเวอร์ชัน Interactive (hover & zoom ได้)*
