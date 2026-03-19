@@ -310,10 +310,6 @@
 > 📌 **สรุป:** เมื่อปรับ Base = 100 จะเห็นว่า **Bangkok มี Growth Index สูงที่สุดในปี 2024** (ประมาณ 300) ขณะที่ Singapore อยู่ที่ ~142 ทุกเมืองมีแนวโน้มเพิ่มขึ้นในปี 2021–2024 ยืนยันการฟื้นตัวหลัง COVID อย่างต่อเนื่อง
 
 
-
-
-## หมีเนยยยยย
-
 ## Part 8 — Urban Scale 💹
 ### ขนาดประชากรและ Demand ในการใช้ขนส่งสาธารณะ — มีความสัมพันธ์กันจริงไหม?
 
@@ -322,7 +318,6 @@
 
 ### ภาพที่ 28 — Average Daily Ridership
 <img width="784" height="584" alt="Ridership" src="https://github.com/user-attachments/assets/0aadc43a-f411-4464-98e3-e7f20a537552" />
-
 
 ### ภาพที่ 29 — Utilization (Ridership per Capita)
 <img width="784" height="584" alt="Utilization" src="https://github.com/user-attachments/assets/0395f0af-984f-485a-abc5-78d630ac51d7" />
