@@ -81,8 +81,6 @@
 <img width="877" height="420" alt="newplot" src="https://github.com/user-attachments/assets/f8de0d81-7828-448b-b3c8-829cafbbea92" />
 
 
-
-
 > 📌 **สรุป:** จากช่วงต่ำสุด ~6 ล้านเที่ยว/เดือน ในกลางปี 2021 กรุงเทพฯ ฟื้นตัวขึ้นมาถึง **~50 ล้านเที่ยว/เดือน** ในปี 2025 หรือเพิ่มขึ้นกว่า **8 เท่า** ในเวลาเพียง 4 ปี นอกจากนี้ยังเห็น Seasonal Pattern ชัด — ตัวเลขมักลดลงช่วงพฤษภาคม–สิงหาคม (ฤดูฝน) และสูงในช่วงต้นปี
 
 ---
@@ -92,9 +90,6 @@
 &emsp;กราฟ Donut Chart แสดงว่าถ้านับผู้โดยสารทั้งหมดในช่วง 4 ปีที่ผ่านมา แต่ละระบบมีส่วนแบ่งเท่าไหร่ จะเห็นได้ว่าระบบไหนที่คนกรุงเทพฯ "เลือก" ใช้จริงๆ ในชีวิตประจำวัน
 <img width="877" height="460" alt="newplot (1)" src="https://github.com/user-attachments/assets/c9e03972-def8-4669-aa92-eb8ec92c5127" />
 
-
-
-> 🖱️ *คลิกที่กราฟเพื่อเปิดเวอร์ชัน Interactive (hover & zoom ได้)*
 
 > 📌 **สรุป:** **BTS Skytrain ครองส่วนแบ่งสูงสุดกว่า 50%** ตามด้วย MRT อีกราว 31% ทั้งสองระบบรวมกันคิดเป็นกว่า 80% ของการเดินทางทั้งหมด สายใหม่อย่าง Yellow Line และ Pink Line ยังมีสัดส่วนน้อย แต่กำลังเพิ่มขึ้นเรื่อยๆ สะท้อนว่าคนกรุงเทพฯ รอคอยการขยายระบบ Rail มาโดยตลอด
 
@@ -106,9 +101,6 @@
 <img width="877" height="460" alt="newplot (2)" src="https://github.com/user-attachments/assets/e7eff640-b040-4f74-b0df-60aa4071ff67" />
 
 
-
-> 🖱️ *คลิกที่กราฟเพื่อเปิดเวอร์ชัน Interactive (hover & zoom ได้)*
-
 > 📌 **สรุป:** ในทุกปี BTS และ MRT เติบโตต่อเนื่อง และเริ่มเห็นการเพิ่มขึ้นของ Yellow Line และ Pink Line ในปี 2023–2024 อย่างชัดเจน แสดงว่าการขยายโครงข่ายรถไฟฟ้าของกรุงเทพฯ กำลังส่งผลจริงต่อพฤติกรรมการเดินทาง
 
 ---
@@ -118,9 +110,6 @@
 &emsp;กราฟนี้ตอบคำถามว่า แต่ละสายรถไฟฟ้า "โตเร็วแค่ไหน" เมื่อเทียบปีต่อปี บางสายอาจตัวเลขรวมน้อย แต่โตเร็วมาก ซึ่งบ่งบอกถึงศักยภาพในอนาคต
 <img width="877" height="460" alt="newplot (3)" src="https://github.com/user-attachments/assets/0117c016-5f68-47f3-9a97-5d3304519bac" />
 
-
-
-> 🖱️ *คลิกที่กราฟเพื่อเปิดเวอร์ชัน Interactive (hover & zoom ได้)*
 
 > 📌 **สรุป:** ปี 2022 ทุกระบบมี YoY Growth พุ่งสูงมาก (บาง Mode สูงกว่า +100%) เพราะเป็นปีแรกที่เมืองเปิดเต็มที่หลัง COVID ส่วนปี 2023–2024 การเติบโตเริ่มชะลอตัวลงสู่ระดับปกติ ซึ่งเป็นสัญญาณว่าตลาดเริ่มเข้าสู่ "ปกติใหม่" แล้ว
 
@@ -139,9 +128,8 @@
 
 &emsp;กราฟนี้แสดงให้เห็นว่าระบบขนส่งสิงคโปร์มีลักษณะอย่างไรทั้งในช่วงปกติ ช่วง COVID และช่วงฟื้นตัว — และฟื้นตัวได้เร็วแค่ไหนเมื่อเทียบกับเมืองอื่น
 
-[![ภาพที่ 5 — คลิกเพื่อดูกราฟ Interactive](https://raw.githubusercontent.com/Kaitokidbua/ASEAN_Transport/main/img/fig05.png)](https://kaitokidbua.github.io/ASEAN_Transport/charts/fig5-8_singapore.html)
+<img width="877" height="420" alt="newplot (4)" src="https://github.com/user-attachments/assets/6b9c01bb-14ac-4418-8e23-d0b2b6d179e1" />
 
-> 🖱️ *คลิกที่กราฟเพื่อเปิดเวอร์ชัน Interactive (hover & zoom ได้)*
 
 > 📌 **สรุป:** กราฟแสดงการดิ่งลงอย่างรุนแรงในต้นปี 2020 เมื่อ COVID ระบาด จาก ~300 ล้านเที่ยว/เดือน เหลือเพียง ~80 ล้านเที่ยว แต่สิงคโปร์ฟื้นตัวเร็ว และในปลายปี 2023 ตัวเลขกลับมาแตะระดับ Pre-COVID ได้อีกครั้ง สะท้อนความยืดหยุ่นของทั้งระบบขนส่งและเศรษฐกิจสิงคโปร์
 
@@ -151,9 +139,8 @@
 
 &emsp;สิงคโปร์มีระบบขนส่งหลักเพียง 3 ระบบ แต่ครอบคลุมทั่วทั้งเกาะ กราฟนี้แสดงว่าระหว่าง MRT กับ Bus ระบบไหนมีผู้ใช้มากกว่า — และผลที่ได้น่าประหลาดใจ
 
-[![ภาพที่ 6 — คลิกเพื่อดูกราฟ Interactive](https://raw.githubusercontent.com/Kaitokidbua/ASEAN_Transport/main/img/fig06.png)](https://kaitokidbua.github.io/ASEAN_Transport/charts/fig5-8_singapore.html)
+<img width="877" height="460" alt="newplot (5)" src="https://github.com/user-attachments/assets/0d469efc-3dde-48a8-b4fc-b769dae7c786" />
 
-> 🖱️ *คลิกที่กราฟเพื่อเปิดเวอร์ชัน Interactive (hover & zoom ได้)*
 
 > 📌 **สรุป:** สิงคโปร์น่าสนใจมาก — **รถเมล์ (Public Bus) มีผู้ใช้มากกว่า MRT เล็กน้อย** สะท้อนว่าระบบขนส่งสิงคโปร์ครอบคลุมพื้นที่ได้อย่างทั่วถึง ไม่ใช่แค่เส้นทาง Rail หลักเท่านั้น ผู้คนสามารถพึ่งพา Bus ได้จริงในชีวิตประจำวัน
 
@@ -162,10 +149,7 @@
 ### ภาพที่ 7 — ผู้โดยสารแต่ละระบบรายปี สิงคโปร์
 
 &emsp;กราฟแท่งซ้อนแสดงผลกระทบของ COVID ในปี 2020 อย่างชัดเจน และให้เห็นว่าสัดส่วน Bus:MRT ยังคงที่แม้ในช่วงวิกฤต
-
-[![ภาพที่ 7 — คลิกเพื่อดูกราฟ Interactive](https://raw.githubusercontent.com/Kaitokidbua/ASEAN_Transport/main/img/fig07.png)](https://kaitokidbua.github.io/ASEAN_Transport/charts/fig5-8_singapore.html)
-
-> 🖱️ *คลิกที่กราฟเพื่อเปิดเวอร์ชัน Interactive (hover & zoom ได้)*
+<img width="877" height="460" alt="newplot (6)" src="https://github.com/user-attachments/assets/f8bf92f0-faf7-4866-b26a-e30c5eb3a3ab" />
 
 > 📌 **สรุป:** ปี 2020–2021 ตัวเลขลดฮวบ แต่สัดส่วน Bus:MRT ยังคงเสถียร แสดงว่าพฤติกรรมการเลือกระบบขนส่งของคนสิงคโปร์ไม่เปลี่ยนแม้ในวิกฤต — บ่งบอกถึงความเชื่อมั่นในระบบ
 
@@ -174,10 +158,8 @@
 ### ภาพที่ 8 — อัตราการเปลี่ยนแปลง YoY สิงคโปร์
 
 &emsp;เปรียบเทียบความเร็วในการฟื้นตัวของแต่ละระบบหลัง COVID ว่า MRT หรือ Bus ฟื้นตัวได้เร็วกว่ากัน และทิศทางสอดคล้องกันไหม
+<img width="877" height="460" alt="newplot (7)" src="https://github.com/user-attachments/assets/138b2b73-073e-44d6-9ba3-e901c36d9dcc" />
 
-[![ภาพที่ 8 — คลิกเพื่อดูกราฟ Interactive](https://raw.githubusercontent.com/Kaitokidbua/ASEAN_Transport/main/img/fig08.png)](https://kaitokidbua.github.io/ASEAN_Transport/charts/fig5-8_singapore.html)
-
-> 🖱️ *คลิกที่กราฟเพื่อเปิดเวอร์ชัน Interactive (hover & zoom ได้)*
 
 > 📌 **สรุป:** ปี 2020 สิงคโปร์ YoY ติดลบหนัก (-34%) แต่ฟื้นตัวได้ใน 2 ปีถัดมา ที่สำคัญคือ การฟื้นตัวของ Bus และ MRT เดินไปในทิศทางเดียวกัน สะท้อนการบริหารระบบที่เป็นเอกภาพ
 
