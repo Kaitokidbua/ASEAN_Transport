@@ -204,9 +204,11 @@
 
 &emsp;ชุดกราฟ 4 ตัวนี้แสดงภาพจาการ์ตาในช่วงปี 2024–2025 ซึ่งเป็นข้อมูลที่มีอยู่ทั้งหมด แม้จะสั้น แต่ก็บอกโครงสร้างการเดินทางของเมืองได้ชัดเจน
 
-[![ภาพที่ 13 — คลิกเพื่อดูกราฟ Interactive](https://raw.githubusercontent.com/Kaitokidbua/ASEAN_Transport/main/img/fig13.png)](https://kaitokidbua.github.io/ASEAN_Transport/charts/fig13-16_jakarta.html)
+<img width="877" height="420" alt="newplot (12)" src="https://github.com/user-attachments/assets/f27ed1f2-3694-4f2b-b133-638a99a70002" />
+<img width="877" height="460" alt="newplot (13)" src="https://github.com/user-attachments/assets/6e2dcbfe-fcbd-4735-9923-3a63ccb82a04" />
+<img width="877" height="460" alt="newplot (14)" src="https://github.com/user-attachments/assets/98fcb2a4-8ddf-490b-816f-fe1f7e2083a5" />
+<img width="877" height="460" alt="newplot (15)" src="https://github.com/user-attachments/assets/1fbaee00-4fb8-4e1c-b57d-513425609c12" />
 
-> 🖱️ *คลิกที่กราฟเพื่อเปิดเวอร์ชัน Interactive (hover & zoom ได้)*
 
 > 📌 **สรุป:** แม้จะมีข้อมูลเพียง 2 ปี แต่สิ่งที่เห็นชัดคือ **TransJakarta ครองสัดส่วนเกือบครึ่ง** (~48%) และ KRL Commuter อีก ~42% รวมกันเกือบ 90% ของการเดินทางทั้งหมด MRT Jakarta ยังมีสัดส่วนน้อยมาก (<6%) สะท้อนว่าระบบ Rail ยังอยู่ในช่วงเริ่มต้น และมี Upside สูงมากหากขยายเพิ่ม
 
