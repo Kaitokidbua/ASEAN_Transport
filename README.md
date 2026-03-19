@@ -73,6 +73,8 @@
 
 &emsp;กรุงเทพฯ มีระบบขนส่งสาธารณะหลายระบบที่ทำงานพร้อมกัน ทั้ง BTS Skytrain, MRT Blue/Purple Line, Airport Rail Link, SRT Red Line (เส้นทางใหม่), MRT Yellow Line และ MRT Pink Line ข้อมูลครอบคลุมปี **2021–2025** — ซึ่งเป็นช่วงฟื้นตัวหลัง COVID และเป็นช่วงที่มีการเปิดสายรถไฟใหม่หลายเส้นทางพอดี
 
+[![ภาพที่ 1 — คลิกเพื่อดูกราฟ Interactive](https://raw.githubusercontent.com/Kaitokidbua/ASEAN_Transport/main/img/fig01.png)](https://kaitokidbua.github.io/ASEAN_Transport/charts/fig1-4_bangkok.html)
+
 ---
 
 ### ภาพที่ 1 — แนวโน้มผู้โดยสารรายเดือน กรุงเทพฯ (2021–2025)
