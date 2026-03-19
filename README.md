@@ -203,11 +203,11 @@
 ### ภาพที่ 13–16 — จาการ์ตา (Monthly / Mode Share / Stacked / YoY)
 
 &emsp;ชุดกราฟ 4 ตัวนี้แสดงภาพจาการ์ตาในช่วงปี 2024–2025 ซึ่งเป็นข้อมูลที่มีอยู่ทั้งหมด แม้จะสั้น แต่ก็บอกโครงสร้างการเดินทางของเมืองได้ชัดเจน
+<img width="877" height="420" alt="newplot (12)" src="https://github.com/user-attachments/assets/a875fdff-3d0f-41f0-b631-9c65188c78c8" />
+<img width="877" height="460" alt="newplot (13)" src="https://github.com/user-attachments/assets/a6a0b3fd-f209-4666-81eb-c98354dc1929" />
+<img width="877" height="460" alt="newplot (14)" src="https://github.com/user-attachments/assets/e1cfa2be-2c1e-4470-ac08-68a796b3dcbc" />
+<img width="877" height="460" alt="newplot (15)" src="https://github.com/user-attachments/assets/a4ff66ef-0791-4f7a-a964-d2c43fdc300f" />
 
-<img width="877" height="420" alt="newplot (12)" src="https://github.com/user-attachments/assets/f27ed1f2-3694-4f2b-b133-638a99a70002" />
-<img width="877" height="460" alt="newplot (13)" src="https://github.com/user-attachments/assets/6e2dcbfe-fcbd-4735-9923-3a63ccb82a04" />
-<img width="877" height="460" alt="newplot (14)" src="https://github.com/user-attachments/assets/98fcb2a4-8ddf-490b-816f-fe1f7e2083a5" />
-<img width="877" height="460" alt="newplot (15)" src="https://github.com/user-attachments/assets/1fbaee00-4fb8-4e1c-b57d-513425609c12" />
 
 
 > 📌 **สรุป:** แม้จะมีข้อมูลเพียง 2 ปี แต่สิ่งที่เห็นชัดคือ **TransJakarta ครองสัดส่วนเกือบครึ่ง** (~48%) และ KRL Commuter อีก ~42% รวมกันเกือบ 90% ของการเดินทางทั้งหมด MRT Jakarta ยังมีสัดส่วนน้อยมาก (<6%) สะท้อนว่าระบบ Rail ยังอยู่ในช่วงเริ่มต้น และมี Upside สูงมากหากขยายเพิ่ม
