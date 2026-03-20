@@ -31,8 +31,10 @@
 
 | # | Research Question | มิติการวิเคราะห์ |
 |---|------------------|-----------------|
-| 1 | จำนวนผู้โดยสารสะท้อนเศรษฐกิจหรือไม่? | Economic Growth |
-| 2 | เมืองกำลังพัฒนาตามสิงคโปร์ทัน? | Development Gap |
+| 1 | จำนวนประชากรเมืองสัมพันธ์กับ Demand ในการใช้ขนส่งสาธารณะหรือไม่? | Urban Scale |
+| 2 | จำนวนผู้โดยสารสะท้อนเศรษฐกิจหรือไม่? | Economic Growth |
+| 3 | เมืองกำลังพัฒนาตามสิงคโปร์ทัน? | Development Gap |
+| 4 | คนเปลี่ยนพฤติกรรมการเดินทางมาใช้ขนส่งสาธารณะเพื่อเลี่ยงมลพิษหรือไม่? | Environmental Pressure |
 
 ### 1.3) ข้อมูลที่ใช้ในการศึกษา
 
@@ -53,7 +55,7 @@
 📦 ASEAN-Transport-Analysis
  ├── README.md                              ← ไฟล์นี้ — อ่านก่อน!
  ├── ASEAN_Urban_Growth_Final_with_Mode.csv ← ไฟล์ข้อมูลหลัก
- │
+ ├── ASEAN_Part8_UrbanScale_Fig.27-32.ipynb ← Part 8: Urban Scale
  ├── ASEAN_Part1_Bangkok_Fig1-4.ipynb       ← Part 1: กรุงเทพฯ
  ├── ASEAN_Part2_Singapore_Fig5-8.ipynb     ← Part 2: สิงคโปร์
  ├── ASEAN_Part3_KualaLumpur_Fig9-12.ipynb  ← Part 3: กัวลาลัมเปอร์
@@ -61,8 +63,7 @@
  ├── ASEAN_Part5_Manila_Fig17-20.ipynb      ← Part 5: มะนิลา
  ├── ASEAN_Part6_EconomicGrowth_Fig21-23.ipynb ← Part 6: Economic Growth
  ├── ASEAN_Part7_DevelopmentGap_Fig24-26.ipynb ← Part 7: Development Gap
- ├── ASEAN_Part8_UrbanScale_           ← Part 8: Urban Scale
- └──                                   ← Part 9: Environmental Pressure
+ └── ASEAN_Part9_Enironment_Fig_33-38.ipynb    ← Part 9: Environmental Pressure
 ```
 
 ---
