@@ -167,8 +167,9 @@
 ### ภาพที่ 11 — แนวโน้มผู้โดยสารรายเดือน สิงคโปร์ (2019–2024)
 
 &emsp;กราฟนี้แสดงให้เห็นว่าระบบขนส่งสิงคโปร์มีลักษณะอย่างไรทั้งในช่วงปกติ ช่วง COVID และช่วงฟื้นตัว — และฟื้นตัวได้เร็วแค่ไหนเมื่อเทียบกับเมืองอื่น
+<img width="1200" height="420" alt="newplot (11)" src="https://github.com/user-attachments/assets/158f51df-dfe4-4e0b-b075-53f505efddbe" />
 
-<img width="877" height="420" alt="newplot (4)" src="https://github.com/user-attachments/assets/6b9c01bb-14ac-4418-8e23-d0b2b6d179e1" />
+
 
 
 > 📌 **สรุป:** กราฟแสดงการดิ่งลงอย่างรุนแรงในต้นปี 2020 เมื่อ COVID ระบาด จาก ~300 ล้านเที่ยว/เดือน เหลือเพียง ~80 ล้านเที่ยว แต่สิงคโปร์ฟื้นตัวเร็ว และในปลายปี 2023 ตัวเลขกลับมาแตะระดับ Pre-COVID ได้อีกครั้ง สะท้อนความยืดหยุ่นของทั้งระบบขนส่งและเศรษฐกิจสิงคโปร์
@@ -178,7 +179,8 @@
 ### ภาพที่ 12 — สัดส่วนการใช้งานแต่ละระบบ สิงคโปร์
 
 &emsp;สิงคโปร์มีระบบขนส่งหลักเพียง 3 ระบบ แต่ครอบคลุมทั่วทั้งเกาะ กราฟนี้แสดงว่าระหว่าง MRT กับ Bus ระบบไหนมีผู้ใช้มากกว่า — และผลที่ได้น่าประหลาดใจ
-<img width="877" height="460" alt="newplot (5)" src="https://github.com/user-attachments/assets/5d3276ae-01f9-40c5-bbac-7dae39430fc1" />
+<img width="1200" height="460" alt="newplot (12)" src="https://github.com/user-attachments/assets/4e047826-9295-4790-b707-951aa488952e" />
+
 
 
 
@@ -189,7 +191,8 @@
 ### ภาพที่ 13 — ผู้โดยสารแต่ละระบบรายปี สิงคโปร์
 
 &emsp;กราฟแท่งซ้อนแสดงผลกระทบของ COVID ในปี 2020 อย่างชัดเจน และให้เห็นว่าสัดส่วน Bus:MRT ยังคงที่แม้ในช่วงวิกฤต
-<img width="877" height="460" alt="newplot (6)" src="https://github.com/user-attachments/assets/f8bf92f0-faf7-4866-b26a-e30c5eb3a3ab" />
+<img width="1200" height="460" alt="newplot (13)" src="https://github.com/user-attachments/assets/5f4322f6-abb7-4eae-adac-01b4a762f5f3" />
+
 
 > 📌 **สรุป:** ปี 2020–2021 ตัวเลขลดฮวบ แต่สัดส่วน Bus:MRT ยังคงเสถียร แสดงว่าพฤติกรรมการเลือกระบบขนส่งของคนสิงคโปร์ไม่เปลี่ยนแม้ในวิกฤต — บ่งบอกถึงความเชื่อมั่นในระบบ
 
@@ -198,7 +201,8 @@
 ### ภาพที่ 14 — อัตราการเปลี่ยนแปลง YoY สิงคโปร์
 
 &emsp;เปรียบเทียบความเร็วในการฟื้นตัวของแต่ละระบบหลัง COVID ว่า MRT หรือ Bus ฟื้นตัวได้เร็วกว่ากัน และทิศทางสอดคล้องกันไหม
-<img width="877" height="460" alt="newplot (7)" src="https://github.com/user-attachments/assets/138b2b73-073e-44d6-9ba3-e901c36d9dcc" />
+<img width="1200" height="460" alt="newplot (14)" src="https://github.com/user-attachments/assets/930cb49e-dd79-47aa-b259-a0a6c17bec77" />
+
 
 
 > 📌 **สรุป:** ปี 2020 สิงคโปร์ YoY ติดลบหนัก (-34%) แต่ฟื้นตัวได้ใน 2 ปีถัดมา ที่สำคัญคือ การฟื้นตัวของ Bus และ MRT เดินไปในทิศทางเดียวกัน สะท้อนการบริหารระบบที่เป็นเอกภาพ
@@ -215,13 +219,17 @@
 ---
 
 ### ภาพที่ 15 — แนวโน้มผู้โดยสารรายเดือน กัวลาลัมเปอร์ 
-<img width="877" height="420" alt="newplot (8)" src="https://github.com/user-attachments/assets/43f824f8-da97-4113-b886-9faeacafc2a3" />
+<img width="1200" height="420" alt="newplot (15)" src="https://github.com/user-attachments/assets/daa35e6a-eea6-4476-a780-f09a7634ccce" />
+
 ### ภาพที่ 16 — สัดส่วนการใช้งานแต่ละระบบ กัวลาลัมเปอร์ 
-<img width="877" height="460" alt="newplot (9)" src="https://github.com/user-attachments/assets/9b750766-3ad4-4c12-99aa-b155e1fac050" />
+<img width="1200" height="460" alt="newplot (16)" src="https://github.com/user-attachments/assets/6e0a7edc-f2a3-479c-8537-8dede83d81a4" />
+
 ### ภาพที่ 17 — ผู้โดยสารแต่ละระบบรายปี กัวลาลัมเปอร์ 
-<img width="1200" height="460" alt="newplot (10)" src="https://github.com/user-attachments/assets/0c9590d7-8948-47a6-95f9-9882e5abedff" />
+<img width="1200" height="490" alt="newplot (17)" src="https://github.com/user-attachments/assets/02e7c0e5-64a1-471a-85f4-9f83e1bf201d" />
+
 ### ภาพที่ 18 — อัตราการเปลี่ยนแปลง YoY กัวลาลัมเปอร์ 
-<img width="1200" height="460" alt="newplot (11)" src="https://github.com/user-attachments/assets/1e543c78-b482-4911-b514-efcde1e599ca" />
+<img width="1200" height="460" alt="newplot (18)" src="https://github.com/user-attachments/assets/aa12e532-b818-4770-b873-5b6f2b5ee8ad" />
+
 
 
 
