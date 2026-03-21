@@ -55,19 +55,55 @@
 📦 ASEAN-Transport-Analysis
  ├── README.md                              ← ไฟล์นี้ — อ่านก่อน!
  ├── ASEAN_Urban_Growth_Final_with_Mode.csv ← ไฟล์ข้อมูลหลัก
- ├── ASEAN_Part8_UrbanScale_Fig.27-32.ipynb ← Part 8: Urban Scale
- ├── ASEAN_Part1_Bangkok_Fig1-4.ipynb       ← Part 1: กรุงเทพฯ
- ├── ASEAN_Part2_Singapore_Fig5-8.ipynb     ← Part 2: สิงคโปร์
- ├── ASEAN_Part3_KualaLumpur_Fig9-12.ipynb  ← Part 3: กัวลาลัมเปอร์
- ├── ASEAN_Part4_Jakarta_Fig13-16.ipynb     ← Part 4: จาการ์ตา
- ├── ASEAN_Part5_Manila_Fig17-20.ipynb      ← Part 5: มะนิลา
- ├── ASEAN_Part6_EconomicGrowth_Fig21-23.ipynb ← Part 6: Economic Growth
- ├── ASEAN_Part7_DevelopmentGap_Fig24-26.ipynb ← Part 7: Development Gap
+ ├── ASEAN_Part1_UrbanScale_Fig.1-6.ipynb ← Part 1: Urban Scale
+ ├── ASEAN_Part1_Bangkok_Fig1-4.ipynb       ← Part 2: กรุงเทพฯ
+ ├── ASEAN_Part2_Singapore_Fig5-8.ipynb     ← Part 3: สิงคโปร์
+ ├── ASEAN_Part3_KualaLumpur_Fig9-12.ipynb  ← Part 4: กัวลาลัมเปอร์
+ ├── ASEAN_Part4_Jakarta_Fig13-16.ipynb     ← Part 5: จาการ์ตา
+ ├── ASEAN_Part5_Manila_Fig17-20.ipynb      ← Part 6: มะนิลา
+ ├── ASEAN_Part6_EconomicGrowth_Fig21-23.ipynb ← Part 7: Economic Growth
+ ├── ASEAN_Part7_DevelopmentGap_Fig24-26.ipynb ← Part 8: Development Gap
  └── ASEAN_Part9_Enironment_Fig_33-38.ipynb    ← Part 9: Environmental Pressure
 ```
 
 ---
 
+## Part 1 — Urban Scale
+### ขนาดประชากรและ Demand ในการใช้ขนส่งสาธารณะ — มีความสัมพันธ์กันจริงไหม?
+
+### ภาพที่ 1 — Urban Scale
+<img width="784" height="584" alt="Fig 1" src="https://github.com/user-attachments/assets/a89a2b1a-0aa6-47c0-ac5d-77b739333a20" />
+
+
+---
+### ภาพที่ 2 — Average Daily Ridership
+<img width="784" height="584" alt="Fig 2" src="https://github.com/user-attachments/assets/75b94bd6-33a0-4401-8df6-09aae55b2715" />
+
+
+---
+### ภาพที่ 3 — Utilization (Ridership per Capita)
+<img width="784" height="584" alt="Utilization" src="https://github.com/user-attachments/assets/0395f0af-984f-485a-abc5-78d630ac51d7" />
+
+---
+### ภาพที่ 4 — Urban Scale vs Transport Utilization
+<img width="1060" height="694" alt="Fig 4" src="https://github.com/user-attachments/assets/5b14295b-74ba-49da-a117-823ddd2048d8" />
+
+
+---
+### ภาพที่ 5 และ 6 — เปรียบเทียบ Corrlation Case A: All cities v Case B: Excluding Singapore
+<img width="1781" height="684" alt="Fig 5-6" src="https://github.com/user-attachments/assets/538208a6-384e-4e83-be39-df94c10f0ad0" />
+
+> 📌 **สรุป:** จากผลการวิเคราะห์ ประชากรเป็นตัวกำหนดความต้องการ (Demand) ได้จริง แต่ไม่ได้เป็นปัจจัยเดียวและไม่ได้เป็นไปในทิศทางเดียวกันในทุกบริบท" โดยเราพบรูปแบบการเติบโต 2 ลักษณะจากข้อมูล:
+
+1. ความสัมพันธ์เชิงเส้นที่ชัดเจน (Linear Correlation Model)
+ในกลุ่มเมืองส่วนใหญ่ (ไทย, มาเลเซีย, ฟิลิปปินส์, อินโดนีเซีย) เมื่อเตัดสิงคโปร์ออก ค่าความสัมพันธ์มีค่าสูงถึง 0.86 ข้อมูลยืนยันว่าสำหรับกลุ่มเมืองนี้ "ขนาดประชากรแปรผันตรงกับปริมาณผู้โดยสาร" อย่างมีนัยสำคัญ หมายความว่าหากประชากรในเมืองเหล่านี้เติบโตขึ้น การขยายตัวของรถไฟฟ้าต้องวิ่งตามจำนวนประชากร และเราสามารถพยากรณ์ได้ว่าความต้องการใช้รถไฟฟ้าจะเติบโตตามไปในสัดส่วนที่ใกล้เคียงกัน
+
+2. ความผิดปกติจาก Outlier 
+เมื่อรวมสิงคโปร์ ค่าความสัมพันธ์กลายเป็น -0.69 ซึ่งติดลบและย้อนแย้งกับกลุ่มแรก ข้อมูลชี้ให้เห็นว่าสิงคโปร์ ที่มีประชากรน้อยกว่าเมืองอื่นอย่างเห็นได้ชัด กลับมียอดผู้โดยสาร (Ridership) สูงกว่าเมืองที่มีประชากรมากกว่าหลายเท่า
+
+ผลการวิเคราะห์ชี้ให้เห็นว่า ประชากรมีความสัมพันธ์เชิงบวกอย่างแข็งแกร่งกับยอดผู้โดยสารในกลุ่มประเทศกำลังพัฒนาส่วนใหญ่ (r = 0.86) อย่างไรก็ตาม ความเป็น Outlier ของสิงคโปร์ที่มียอดผู้โดยสารสูงแม้ประชากรจะน้อย ทำให้เห็นว่า Demand ของการขนส่งไม่ได้ขึ้นอยู่กับขนาดประชากรเพียงอย่างเดียว แต่ยังมีปัจจัยเชิงโครงสร้างหรือเชิงเศรษฐกิจอื่นๆ (เช่น GDP หรือความหนาแน่น) ที่ส่งผลต่อการใช้งานระบบขนส่งสาธารณะมากกว่าจำนวนประชากรเพียงอย่างเดียว
+
+---
 
 ## Part 1 — กรุงเทพมหานคร 🇹🇭
 ### โครงสร้างการเดินทางในกรุงเทพฯ เป็นอย่างไร?
@@ -333,79 +369,65 @@
 > 📌 **สรุป:** เมื่อปรับ Base = 100 จะเห็นว่า **Bangkok มี Growth Index สูงที่สุดในปี 2024** (ประมาณ 300) ขณะที่ Singapore อยู่ที่ ~142 ทุกเมืองมีแนวโน้มเพิ่มขึ้นในปี 2021–2024 ยืนยันการฟื้นตัวหลัง COVID อย่างต่อเนื่อง
 
 
-
-## Part 8 — Urban Scale 💹
-### ขนาดประชากรและ Demand ในการใช้ขนส่งสาธารณะ — มีความสัมพันธ์กันจริงไหม?
-
----
-### ภาพที่ 27 — Urban Scale
-<img width="784" height="584" alt="urban scale" src="https://github.com/user-attachments/assets/232bdc22-6fe8-4415-a19e-abb720be2aa5" />
-
----
-### ภาพที่ 28 — Average Daily Ridership
-<img width="784" height="584" alt="Ridership" src="https://github.com/user-attachments/assets/0aadc43a-f411-4464-98e3-e7f20a537552" />
-
----
-### ภาพที่ 29 — Utilization (Ridership per Capita)
-<img width="784" height="584" alt="Utilization" src="https://github.com/user-attachments/assets/0395f0af-984f-485a-abc5-78d630ac51d7" />
-
----
-### ภาพที่ 30 — Urban Scale vs Transport Utilization
-<img width="1062" height="705" alt="Urban scale vs Utilization" src="https://github.com/user-attachments/assets/7488ff02-5641-430e-94c6-b7df984eae1e" />
-
----
-### ภาพที่ 31 และ 32 — เปรียบเทียบ Corrlation Case A: All cities v Case B: Excluding Singapore
-<img width="1781" height="684" alt="ridership per capita 2 cases" src="https://github.com/user-attachments/assets/482809e2-05fb-4262-a08d-6139d59f7748" />
-
-
-> 📌 **สรุป:** จากผลการวิเคราะห์ ประชากรเป็นตัวกำหนดความต้องการ (Demand) ได้จริง แต่ไม่ได้เป็นปัจจัยเดียวและไม่ได้เป็นไปในทิศทางเดียวกันในทุกบริบท" โดยเราพบรูปแบบการเติบโต 2 ลักษณะจากข้อมูล:
-
-1. ความสัมพันธ์เชิงเส้นที่ชัดเจน (Linear Correlation Model)
-ในกลุ่มเมืองส่วนใหญ่ (ไทย, มาเลเซีย, ฟิลิปปินส์, อินโดนีเซีย) เมื่อเตัดสิงคโปร์ออก ค่าความสัมพันธ์มีค่าสูงถึง 0.86 ข้อมูลยืนยันว่าสำหรับกลุ่มเมืองนี้ "ขนาดประชากรแปรผันตรงกับปริมาณผู้โดยสาร" อย่างมีนัยสำคัญ หมายความว่าหากประชากรในเมืองเหล่านี้เติบโตขึ้น การขยายตัวของรถไฟฟ้าต้องวิ่งตามจำนวนประชากร และเราสามารถพยากรณ์ได้ว่าความต้องการใช้รถไฟฟ้าจะเติบโตตามไปในสัดส่วนที่ใกล้เคียงกัน
-
-2. ความผิดปกติจาก Outlier 
-เมื่อรวมสิงคโปร์ ค่าความสัมพันธ์กลายเป็น -0.69 ซึ่งติดลบและย้อนแย้งกับกลุ่มแรก ข้อมูลชี้ให้เห็นว่าสิงคโปร์ ที่มีประชากรน้อยกว่าเมืองอื่นอย่างเห็นได้ชัด กลับมียอดผู้โดยสาร (Ridership) สูงกว่าเมืองที่มีประชากรมากกว่าหลายเท่า
-
-ผลการวิเคราะห์ชี้ให้เห็นว่า ประชากรมีความสัมพันธ์เชิงบวกอย่างแข็งแกร่งกับยอดผู้โดยสารในกลุ่มประเทศกำลังพัฒนาส่วนใหญ่ ($r = 0.86$) อย่างไรก็ตาม ความเป็น Outlier ของสิงคโปร์ที่มียอดผู้โดยสารสูงแม้ประชากรจะน้อย ทำให้เห็นว่า Demand ของการขนส่งไม่ได้ขึ้นอยู่กับขนาดประชากรเพียงอย่างเดียว แต่ยังมีปัจจัยเชิงโครงสร้างหรือเชิงเศรษฐกิจอื่นๆ (เช่น GDP หรือความหนาแน่น) ที่ส่งผลต่อการใช้งานระบบขนส่งสาธารณะมากกว่าจำนวนประชากรเพียงอย่างเดียว
-
 ---
 
-## Part 9 — Environmental Pressure 💹
+## Part 9 — Environmental Pressure 
 ### มลพิษมีส่วนกระตุ้นให้คนหันมาใช้ขนส่งสาธารณะจริงไหม?
 
 เมื่อค่า PM 2.5 สูงขึ้น ผลกระทบด้านสุขภาพของการเดินทางแบบเปิด (Open-mode) เช่น การขี่มอเตอร์ไซค์ หรือการเดิน สามารถพุเพิ่มสูงขึ้น ผู้เดินทางจึงอาจจะมองหาทาเลือกที่ลดความเสี่ยงนี้ และในช่วงวิกฤตฝุ่น ผู้เดินทางไม่ได้แค่ต้องการความเร็ว แต่ต้องการ "Minimal Exposure Time" (เวลาที่ต้องสัมผัสอากาศภายนอกน้อยที่สุด) รถไฟฟ้าที่มีตารางเวลาแน่นอนกว่าเมื่อเทียบกับรถยนต์ส่วนตัว ที่อาจต้องติดอยู่บนถนนและรับมลพิษจากท่อไอเสียคันข้างหน้าเป็นเวลานานกว่า
 
 ---
 ### ภาพที่ 33 — Time Series Analysis
-<img width="1484" height="1984" alt="PM2 5 time series" src="https://github.com/user-attachments/assets/ef3b5648-c5db-4051-ab96-74c460e3f386" />
+
+ภาพที่ 33.1
+<img width="1484" height="484" alt="Fig 33 1" src="https://github.com/user-attachments/assets/14ea21e7-c399-4538-ab03-29e109f9d17d" />
+
+ภาพที่ 33.2
+<img width="1484" height="484" alt="Fig 33 2" src="https://github.com/user-attachments/assets/a1a9c875-311f-4814-a66e-a9e6173ba5d0" />
+
+ภาพที่ 33.3
+<img width="1484" height="484" alt="Fig 33 3" src="https://github.com/user-attachments/assets/84b119d2-a310-43e4-915e-fd15f7ed3779" />
+
+ภาพที่ 33.4
+<img width="1484" height="484" alt="Fig 33 4" src="https://github.com/user-attachments/assets/61215554-3438-4e7b-b728-44858899b055" />
+
+ภาพที่ 33.5
+<img width="1484" height="484" alt="Fig 33 5" src="https://github.com/user-attachments/assets/94458d2d-b6ba-4b15-b574-03bbdf3d83e0" />
 
 ---
 ### ภาพที่ 34-38 — Correlation: PM2.5 vs Ridership
-<img width="784" height="483" alt="PM2 5 corr" src="https://github.com/user-attachments/assets/fc1c650e-0c75-4f97-9645-1a8bf30f20ba" />
 
-<img width="784" height="483" alt="PM2 5 corr Indo" src="https://github.com/user-attachments/assets/b10e1757-5349-496d-860f-d7e8a12b2843" />
+<img width="784" height="484" alt="Fig 34" src="https://github.com/user-attachments/assets/3a6837cb-6088-4bc6-a022-6f27fdc83567" />
 
-<img width="784" height="483" alt="PM2 5 corr Malaysia" src="https://github.com/user-attachments/assets/d2e7602e-15f5-4d94-9f11-b508c21d23f3" />
+<img width="784" height="484" alt="Fig 35" src="https://github.com/user-attachments/assets/004aa38e-ed22-4613-8a65-ac25fb98cb9a" />
 
-<img width="784" height="483" alt="PM2 5 corr Manila" src="https://github.com/user-attachments/assets/70769cd6-5af2-48b1-b6f2-9008be731d28" />
+<img width="784" height="484" alt="Fig 36" src="https://github.com/user-attachments/assets/dda39668-a25f-495c-9139-94e67ee9c5f7" />
 
-<img width="784" height="483" alt="PM2 5 corr SG" src="https://github.com/user-attachments/assets/735c5cb4-2658-47ff-8e11-f9d71535cfe2" />
+<img width="784" height="484" alt="Fig 37" src="https://github.com/user-attachments/assets/271e716c-7cc8-41cc-b041-7019ef2fd3ec" />
+
+<img width="784" height="484" alt="Fig 38" src="https://github.com/user-attachments/assets/126ac4cb-a546-4cff-b437-f04f71b2a4d7" />
 
 
-> 📌 **สรุป:** จากการวิเคราะห์ความสัมพันธ์ (Correlation) ระหว่างระดับฝุ่น PM 2.5 และยอดผู้โดยสาร (Ridership) ใน 5 เมืองหลัก เราสามารถจำแนกพฤติกรรมและความสำคัญของระบบขนส่งมวลชนออกเป็น 3 รูปแบบหลัก ดังนี้:
+> 📌 **สรุป:** จากการวิเคราะห์ความสัมพันธ์ (Correlation) ระหว่างระดับฝุ่น PM 2.5 และยอดผู้โดยสาร (Ridership) ใน 5 เมืองหลัก เราสามารถจำแนกพฤติกรรมและความสำคัญของระบบขนส่งมวลชนออกเป็น 4 ลักษณะ ดังนี้:
 
-1. High Synchronicity (BKK, KL: r = 0.85)
-ค่า r ที่สูงมากระดับ 0.85 บ่งชี้ถึง "ความสอดคล้องเชิงเวลา" (Temporal Synchronization) ที่เข้มข้นที่สุดในภูมิภาค เมื่อระดับมลพิษพุ่งสูง ยอดการใช้งานระบบรางจะขยายตัวตามในสัดส่วนที่เกือบจะสมบูรณ์ จากการวิเคราะห์ก่อนหน้า เมืองทั้งสองกำลังเติบโต (ในแง่โครงข่าย??) เมื่อโครงข่ายเข้าถึงจุดที่สะดวกพอ (Accessible) พฤติกรรมผู้คนจะตอบสนองต่อปัจจัยภายนอก (PM 2.5) อย่างรวดเร็ว ตัวเลข 0.85 แสดงให้เห็นว่าระบบรางถูกใช้เป็นส่วนหนึ่งของ Adaptation Strategy ของคนเมืองในการรับมลพิษ
+1. High Synchronicity (BKK: r = 0.60)
+ค่า r ที่สูงมากระดับ 0.ุจ บ่งชี้ถึง "ความสอดคล้องเชิงเวลา" (Temporal Synchronization) ที่เข้มข้นที่สุดในภูมิภาค เมื่อระดับมลพิษพุ่งสูง ยอดการใช้งานระบบรางจะขยายตัวตามในสัดส่วนที่เกือบจะสมบูรณ์ จากการวิเคราะห์ก่อนหน้าที่แสดงให้เห็นว่ากรุงเทพฯ กำลังเติบโต ในแง่โครงข่ายรถสาธารณะ เมื่อโครงข่ายเข้าถึงจุดที่สะดวกพอ (Accessible) พฤติกรรมผู้คนจะตอบสนองต่อปัจจัยภายนอก (PM 2.5) อย่างรวดเร็ว ตัวเลข 0.ุจ แสดงให้เห็นว่าระบบรางถูกใช้เป็นส่วนหนึ่งของ Adaptation Strategy ของคนเมืองในการรับมลพิษ
 
 2. Moderate Adaptation (Jakarta: r = 0.45)
 ความสัมพันธ์เป็นทิศทางบวกแต่ไม่แข็งแกร่งเท่ากลุ่มแรก สะท้อนถึง Service Gap หรือข้อจำกัดเชิงโครงสร้าง แม้ประชากรจะกังวลเรื่องฝุ่น แต่การเข้าถึงระบบรางอาจยังไม่สะดวกพอที่จะทำให้เกิดการเปลี่ยนโหมดเดินทางได้ในวงกว้าง (Mass Adoption)
 
-3. Inelastic Behavior (SG r = 0.27, Manila r = 0.17)
+3. Inelastic Behavior (SG r = 0.ๅ7, Manila r = 0.17)
 สำหรับเมืองทั้งสองนี้ ปัจจัยฝุ่นมีความสัมพันธ์กับความผันแปรของยอดผู้โดยสารน้อยมาก
 
 สำหรับสิงคโปร์ ค่า r = 0.17 (ต่ำที่สุดในกลุ่ม) ควบคู่กับยอด Ridership per Capita ที่สูงที่สุด ชี้ให้เห็นว่า สิงคโปร์กำลังเข้าสู่ภาวะอิ่มตัวของการใช้ระบบราง ประชากรส่วนใหญ่ใช้รถไฟฟ้าเป็นโหมดการเดินทางหลักในชีวิตประจำวันอยู่แล้ว ดังนั้นเมื่อเกิดปัจจัยกระตุ้นภายนอกอย่าง PM 2.5 จึงไม่มีกลุ่มผู้ใช้งานใหม่ (New Adopters) ที่จะเปลี่ยนโหมดเข้ามาเพิ่มอย่างมีนัยสำคัญ
 
 สำหรับมะนิลา จากการวิเคราะห์ก่อนหน้า ระบบ Rail ไม่เพียงพอต่อความต้องการใช้ของประชากร ประชากรในมะนิลาเผชิญกับภาวะความต้องการเดินทางที่ยืดหยุ่นต่ำ (Inelasticity) เนื่องจากทางเลือกในการเดินทางมีจำกัดและระบบรางมักจะทำงานเกินขีดจำกัด (Over-capacity) อยู่แล้วในทุกวัน ข้อมูลชี้ให้เห็นว่ามลพิษ PM 2.5 ไม่ได้ทำหน้าที่เป็นตัวเร่ง (Catalyst) ในเมืองนี้ เพราะข้อจำกัดด้านโครงสร้างพื้นฐาน (Capacity Bottleneck) ได้ปิดกั้นโอกาสที่ประชากรจะเปลี่ยนพฤติกรรมเพื่อตอบสนองต่อวิกฤตสิ่งแวดล้อม
+
+4. Anomaly (Kuala Lumpur: r = -0.02)
+การที่ KL มีค่า correlation ใกล้ศูนย์ และติดลบเล็กน้อย เป็นเป็นผลการวิเคราะห์ที่น่าสนใจ เนื่องจากโครงสร้างรถสาธารณะของ Kuala Lumpur และการเติบโตของ GDP มีความใกล้เคียงกับ Bangkok แต่เมื่อพิจารณาผลการวิเคราะห์อื่นๆร่วมด้วย ทำให้เราได้รู้ว่า ค่า correlation ที่ติดลบ ไม่ได้หมายความว่าระบบรางไม่มีความสำคัญ แต่สะท้อนถึงการถูกควบคุมโดยปัจจัยเชิงนโยบาย (Institutional Factors) และโครงสร้างเมือง (Urban Structure) ที่เหนือกว่าปัจจัยทางสภาพอากาศ
+
+   - The Lockdown Anomaly (2021): จากข้อมูลพบว่าปี 2021 มาเลเซียเผชิญกับการ Lockdown ที่ยาวนานกว่าประเทศอื่นในภูมิภาค ส่งผลให้ยอดผู้โดยสาร (Ridership) เผชิญแรงกดดันให้ต่ำกว่าปกติในระยะยาวด้วยอำนาจรัฐ เมื่อข้อมูลช่วงที่ผิดปกติ (Anomalous Data) นี้ไปเจอกับช่วงที่ฝุ่นพุ่งสูงตามธรรมชาติ จึงมีโอกาสเกิดการหักล้างทางสถิติ ทำให้ค่า r ดิ่งลงจนอาจไม่สะท้อนพฤติกรรมที่แท้จริงของผู้คน (Statistical Decoupling)
+   - Car-Centric Dependency: แม้ระบบรางจะกำลังขยายตัว แต่พฤติกรรมหลักของชาว Kuala Lumpur ยังคงยึดติดกับรถยนต์ส่วนบุคคลสูงมาก เมื่อเกิดวิกฤตฝุ่น คนส่วนใหญ่เลือกที่จะอยู่ในรถยนต์ซึ่งเป็นระบบปิดตั้งแต่ต้นทางถึงปลายทาง ปัจจัยฝุ่นจึงไม่ทำหน้าที่เป็นตัวเร่งที่รุนแรงพอจะทำให้เกิดการเปลี่ยนโหมดเดินทาง (Mode Shift) เหมือนใน Bangkok
 
 ---
 
