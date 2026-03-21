@@ -625,18 +625,12 @@ Dataset รวม: ASEAN_Urban_Growth_Final_with_Mode.csv
 รวบรวมและจัดเตรียมโดยผู้จัดทำ จากแหล่งข้อมูลสาธารณะดังต่อไปนี้
 
  ข้อมูลผู้โดยสารระบบขนส่งสาธารณะ (Ridership Data)
-🇹🇭 ไทย (Bangkok)
-กรมการขนส่งทางราง กระทรวงคมนาคม. (2567). ข้อมูลสถิติการขนส่ง. สืบค้นจาก https://datagov.mot.go.th/
-🇸🇬 สิงคโปร์ (Singapore)
-Land Transport Authority (LTA). (2024). LTA DataMall — Public Transport Ridership. Retrieved from https://datamall.lta.gov.sg/content/datamall/en.html
-🇲🇾 มาเลเซีย / กัวลาลัมเปอร์ (Malaysia / Kuala Lumpur)
-Ministry of Transport Malaysia. (2024). Ridership Headline — data.gov.my. Retrieved from https://data.gov.my/data-catalogue/ridership_headline
-Faris, I. Q. (2023). Daily Public Transportation Ridership in KL [Kaggle Notebook]. Retrieved from https://www.kaggle.com/code/izzulqhaleeqfaris/daily-public-transportation-ridership-in-kl
-🇵🇭 ฟิลิปปินส์ / มะนิลา (Philippines / Manila)
-Cayaco, F. S. (2023). MRT-3 Analysis [Kaggle Notebook]. Retrieved from https://www.kaggle.com/code/franksebastiancayaco/mrt-3-analysis
+- 🇹🇭 ไทย (Bangkok)กรมการขนส่งทางราง กระทรวงคมนาคม. (2567). ข้อมูลสถิติการขนส่ง. สืบค้นจาก https://datagov.mot.go.th/
+- 🇸🇬 สิงคโปร์ (Singapore)Land Transport Authority (LTA). (2024). LTA DataMall — Public Transport Ridership. Retrieved from https://datamall.lta.gov.sg/content/datamall/en.html
+- 🇲🇾 มาเลเซีย / กัวลาลัมเปอร์ (Malaysia / Kuala Lumpur)Ministry of Transport Malaysia. (2024). Ridership Headline — data.gov.my. Retrieved from https://data.gov.my/data-catalogue/ridership_headline/Faris, I. Q. (2023). Daily Public Transportation Ridership in KL [Kaggle Notebook]. Retrieved from https://www.kaggle.com/code/izzulqhaleeqfaris/daily-public-transportation-ridership-in-kl
+- 🇵🇭 ฟิลิปปินส์ / มะนิลา (Philippines / Manila) Cayaco, F. S. (2023). MRT-3 Analysis [Kaggle Notebook]. Retrieved from https://www.kaggle.com/code/franksebastiancayaco/mrt-3-analysis
 Light Rail Transit Authority (LRTA). (2024). Ridership Statistics. Republic of the Philippines Department of Transportation.
-🇮🇩 อินโดนีเซีย / จาการ์ตา (Indonesia / Jakarta)
-PT TransJakarta. (2024). Data Penumpang TransJakarta. Retrieved from https://www.transjakarta.co.id/
+- 🇮🇩 อินโดนีเซีย / จาการ์ตา (Indonesia / Jakarta) PT TransJakarta. (2024). Data Penumpang TransJakarta. Retrieved from https://www.transjakarta.co.id/
 
 ข้อมูลประชากร (Population Data)
 United Nations, Department of Economic and Social Affairs, Population Division. (2024). World Urbanization Prospects 2024. Retrieved from https://population.un.org/wup/
