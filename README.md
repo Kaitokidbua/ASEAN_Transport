@@ -457,7 +457,9 @@ Fig.29  ความสัมพันธ์ระหว่างผู้โด
 
 &emsp;Compound Annual Growth Rate (CAGR) คืออัตราเติบโตต่อปีแบบทบต้น ช่วยเปรียบเทียบได้อย่างยุติธรรม โดยไม่ได้รับผลกระทบจากความผันผวนในปีใดปีหนึ่ง เส้นประแทน Singapore Benchmark
 
-<img width="877" height="380" alt="newplot (23)" src="https://github.com/user-attachments/assets/6cd209e9-d83a-4548-801b-f5ce9196692f" />
+Fig.30 CAGR 2021–2024 (%)   เปรียบเทียบทุกเมือง  |  Singapore = Developed Benchmark
+
+<img width="1184" height="490" alt="30" src="https://github.com/user-attachments/assets/b3a44c4d-392c-4b28-98ec-589daaad104f" />
 
 
 > 📌 **สรุป:** **Bangkok และ Kuala Lumpur มี CAGR สูงกว่า Singapore อย่างชัดเจน** สอดคล้องกับทฤษฎี Catch-up Dynamics Singapore มี CAGR ต่ำกว่า ไม่ใช่เพราะระบบแย่ลง แต่เพราะ **ระบบอิ่มตัวแล้ว** (Mature Market)
@@ -467,8 +469,10 @@ Fig.29  ความสัมพันธ์ระหว่างผู้โด
 ### ภาพที่ 31 — เที่ยวโดยสารต่อคนต่อปี (Passenger per Capita)
 
 &emsp;เพื่อเปรียบเทียบที่เป็นธรรมระหว่างเมืองที่มีขนาดประชากรต่างกัน จึงใช้ Passenger per Capita เป็นตัวชี้วัด ซึ่งแสดงระดับการพึ่งพาระบบขนส่งสาธารณะของแต่ละเมืองได้ชัดเจนกว่า
-<img width="877" height="480" alt="newplot (24)" src="https://github.com/user-attachments/assets/1a85c837-f9c8-43d5-b7dc-bf322e2dfc87" />
 
+Fig.31 เที่ยวโดยสารต่อคนต่อปี (Passenger per Capita) — วัดระดับการพึ่งพา
+
+<img width="1289" height="590" alt="31" src="https://github.com/user-attachments/assets/870fda13-accd-493e-9dec-4c537409b097" />
 
 
 > 📌 **สรุป:** **Singapore มี Passenger per Capita สูงกว่าเมืองอื่นอย่างมีนัยสำคัญ** (~450 เที่ยว/คน/ปี) Bangkok เติบโตต่อเนื่องแต่ยังอยู่ที่ ~48 เที่ยว/คน/ปี — ช่องว่างนี้บ่งบอกว่ายังมีพื้นที่เติบโตอีกมาก
@@ -478,9 +482,10 @@ Fig.29  ความสัมพันธ์ระหว่างผู้โด
 ### ภาพที่ 32 — Growth Index (ปี 2021 = 100) เปรียบเทียบอัตราเติบโต
 
 &emsp;กราฟ Index ปรับฐานปี 2021 = 100 เพื่อเปรียบเทียบ "ความเร็วในการเติบโต" อย่างเป็นธรรม โดยไม่สนใจขนาดสัมบูรณ์ที่ต่างกัน
-<img width="877" height="480" alt="newplot (25)" src="https://github.com/user-attachments/assets/6075f2e6-81cd-440a-9314-4a5a7cb45c4d" />
 
+Fig.32  Growth Index (ปี 2021 = 100) เปรียบเทียบอัตราเติบโต
 
+<img width="1289" height="590" alt="32" src="https://github.com/user-attachments/assets/4d3fec76-6561-4ef9-b462-a5bf00805160" />
 
 > 📌 **สรุป:** เมื่อปรับ Base = 100 จะเห็นว่า **Bangkok มี Growth Index สูงที่สุดในปี 2024** (ประมาณ 300) ขณะที่ Singapore อยู่ที่ ~142 ทุกเมืองมีแนวโน้มเพิ่มขึ้นในปี 2021–2024 ยืนยันการฟื้นตัวหลัง COVID อย่างต่อเนื่อง
 
