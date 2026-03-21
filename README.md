@@ -246,17 +246,24 @@
 
 ---
 
-### ภาพที่ 13–16 — จาการ์ตา (Monthly / Mode Share / Stacked / YoY)
+
 
 
 ### ภาพที่ 19 — แนวโน้มผู้โดยสารรายเดือนจาการ์ตา 2024–2025
-<img width="877" height="420" alt="newplot (12)" src="https://github.com/user-attachments/assets/a875fdff-3d0f-41f0-b631-9c65188c78c8" />
+<img width="1200" height="420" alt="newplot (19)" src="https://github.com/user-attachments/assets/79b0e159-dfbf-4a1c-b453-49df1fa8560c" />
+
+
 ### ภาพที่ 20 — สัดส่วนการใช้งานแต่ละระบบ จาการ์ตา
-<img width="877" height="460" alt="newplot (13)" src="https://github.com/user-attachments/assets/a6a0b3fd-f209-4666-81eb-c98354dc1929" />
+<img width="1200" height="460" alt="newplot (20)" src="https://github.com/user-attachments/assets/8e0a0d39-e8bf-4a3b-a504-6170e4fa842a" />
+
+
 ### ภาพที่ 21 — ผู้โดยสารแต่ละระบบรายปี จาการ์ตา
-<img width="877" height="460" alt="newplot (14)" src="https://github.com/user-attachments/assets/e1cfa2be-2c1e-4470-ac08-68a796b3dcbc" />
+<img width="1200" height="460" alt="newplot (21)" src="https://github.com/user-attachments/assets/e9019a37-357a-4ade-b8fe-21e1bbe74e38" />
+
+
 ### ภาพที่ 22 — อัตราการเปลี่ยนแปลง YoY จาการ์ตา
-<img width="877" height="460" alt="newplot (15)" src="https://github.com/user-attachments/assets/a4ff66ef-0791-4f7a-a964-d2c43fdc300f" />
+<img width="1200" height="460" alt="newplot (22)" src="https://github.com/user-attachments/assets/955339fc-9d45-4c4a-b8d2-88ef9fcc0b53" />
+
 
 
 
