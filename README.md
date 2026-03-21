@@ -283,21 +283,26 @@
 ### ภาพที่ 23 — แนวโน้มผู้โดยสาร 25 ปี มะนิลา (1999–2024)
 
 &emsp;กราฟ Area แสดงภาพระยะยาวของการเดินทางในมะนิลาตลอด 25 ปี ช่วยให้เห็นว่าความต้องการระบบขนส่งเพิ่มขึ้นมาอย่างไร และ COVID กระทบหนักแค่ไหน
+<img width="1200" height="440" alt="newplot (23)" src="https://github.com/user-attachments/assets/554ccbee-8be4-41e0-9d06-a59c1cc0a9e5" />
 
-<img width="877" height="440" alt="newplot (16)" src="https://github.com/user-attachments/assets/d75b5a34-99f7-44d1-a9e2-2719427427b6" />
+
 
 
 ### ภาพที่ 24 — สัดส่วนผู้โดยสารจำแนกตามยุค มะนิลา
 
 &emsp;แทนที่จะแยก Mode (เพราะมีแค่ระบบเดียว) กราฟนี้จึงแบ่งข้อมูลตาม 3 ยุค ได้แก่ ก่อน COVID / ระหว่าง COVID / หลัง COVID เพื่อให้เห็นสัดส่วนของแต่ละช่วงชัดเจน
-<img width="877" height="460" alt="newplot (17)" src="https://github.com/user-attachments/assets/60e84c6f-189e-4003-b696-60adbe5a14ae" />
+<img width="1200" height="460" alt="newplot (24)" src="https://github.com/user-attachments/assets/818d0ac5-d9a3-4ec4-8f79-9f933df580a8" />
+
 
 
 &emsp;กราฟ 2 ตัวนี้เน้นช่วงล่าสุด 10 ปี เพื่อให้เห็นแนวโน้มใกล้ชิดมากขึ้น และเปรียบเทียบอัตราการเปลี่ยนแปลงปีต่อปี
-### ภาพที่ 25 — ผู้โดยสารรายปี (2015–2024)
-<img width="877" height="460" alt="newplot (18)" src="https://github.com/user-attachments/assets/bcae5af0-c362-415f-8627-9845c6040080" />
+### ภาพที่ 25 — ผู้<img width="1200" height="460" alt="newplot (25)" src="https://github.com/user-attachments/assets/71e4190e-f3a9-4921-9b48-db0e89042406" />
+โดยสารรายปี (2015–2024)
+
+
 ### ภาพที่ 26 —  YoY มะนิลา (2015–2024)
-<img width="877" height="440" alt="newplot (19)" src="https://github.com/user-attachments/assets/35d4e913-b3c3-4691-be50-398ec7505d1e" />
+<img width="1200" height="440" alt="newplot (26)" src="https://github.com/user-attachments/assets/dc112037-04de-4f7e-9d70-fbf48351282b" />
+
 
 
 
