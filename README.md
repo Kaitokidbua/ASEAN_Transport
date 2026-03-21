@@ -632,19 +632,17 @@ Dataset รวม: ASEAN_Urban_Growth_Final_with_Mode.csv
 Light Rail Transit Authority (LRTA). (2024). Ridership Statistics. Republic of the Philippines Department of Transportation.
 - 🇮🇩 อินโดนีเซีย / จาการ์ตา (Indonesia / Jakarta) PT TransJakarta. (2024). Data Penumpang TransJakarta. Retrieved from https://www.transjakarta.co.id/
 
-ข้อมูลประชากร (Population Data)
-United Nations, Department of Economic and Social Affairs, Population Division. (2024). World Urbanization Prospects 2024. Retrieved from https://population.un.org/wup/
+- ข้อมูลประชากร (Population Data)United Nations, Department of Economic and Social Affairs, Population Division. (2024). World Urbanization Prospects 2024. Retrieved from https://population.un.org/wup/
 หมายเหตุ: ใช้แนวคิด Urban Agglomeration ซึ่งครอบคลุมประชากรในเขตเมืองหลวงและพื้นที่เศรษฐกิจต่อเนื่อง อาจสูงกว่าตัวเลขทะเบียนราษฎร์อย่างเป็นทางการ
 
-ข้อมูล GDP (GDP Data)
-International Monetary Fund. (2024). World Economic Outlook Database: October 2024. Retrieved from https://www.imf.org/en/Publications/WEO
+- ข้อมูล GDP (GDP Data) International Monetary Fund. (2024). World Economic Outlook Database: October 2024. Retrieved from https://www.imf.org/en/Publications/WEO
 World Bank. (2024). World Bank Open Data — GDP (current US$). Retrieved from https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
 หมายเหตุ: ตัวเลขปี 2024–2025 เป็น Projections ของ IMF ณ เวลาที่จัดทำข้อมูล
 
-ข้อมูลคุณภาพอากาศ PM2.5 (Air Quality Data)
-IQAir. (2024). World Air Quality Report 2023. Retrieved from https://www.iqair.com/world-air-quality-report
-World Health Organization. (2024). WHO Global Air Quality Database. Retrieved from https://www.who.int/data/gho/data/themes/air-pollution
-van Donkelaar, A., Hammer, M. S., Bindle, L., Brauer, M., Brook, J. R., Garay, M. J., ... & Martin, R. V. (2021). Monthly global estimates of fine particulate matter and their uncertainty. Environmental Science & Technology, 55(22), 15287–15300. https://doi.org/10.1021/acs.est.1c05309
+- ข้อมูลคุณภาพอากาศ PM2.5 (Air Quality Data)
+-- IQAir. (2024). World Air Quality Report 2023. Retrieved from https://www.iqair.com/world-air-quality-report
+-- World Health Organization. (2024). WHO Global Air Quality Database. Retrieved from https://www.who.int/data/gho/data/themes/air-pollution
+-- van Donkelaar, A., Hammer, M. S., Bindle, L., Brauer, M., Brook, J. R., Garay, M. J., ... & Martin, R. V. (2021). Monthly global estimates of fine particulate matter and their uncertainty. Environmental Science & Technology, 55(22), 15287–15300. https://doi.org/10.1021/acs.est.1c05309
 หมายเหตุ: ข้อมูลปี 2000–2010 อ้างอิงจาก Satellite-derived PM2.5 (NASA / Washington University in St. Louis); ข้อมูลปี 2011–2025 อ้างอิงจาก IQAir และ WHO Ground Station Network
 
 ---
