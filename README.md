@@ -462,11 +462,66 @@ Fig.29  ความสัมพันธ์ระหว่างผู้โด
 ---
 
 ## 🔗 อ้างอิงข้อมูล
+🗃️ Dataset หลักที่ใช้ในโปรเจกต์นี้
 
-- **Dataset:** `ASEAN_Urban_Growth_Final_with_Mode.csv`
-- **ข้อมูลผู้โดยสาร:** แหล่งข้อมูลสาธารณะของแต่ละประเทศ (BMTA, LTA Singapore, Prasarana, TransJakarta, LRTA)
-- **GDP:** World Bank / National Statistics
-- **PM2.5:** IQAir / WHO
+Dataset รวม: ASEAN_Urban_Growth_Final_with_Mode.csv
+รวบรวมและจัดเตรียมโดยผู้จัดทำ จากแหล่งข้อมูลสาธารณะดังต่อไปนี้
+
+
+🚇 ข้อมูลผู้โดยสารระบบขนส่งสาธารณะ (Ridership Data)
+🇹🇭 ไทย (Bangkok)
+
+กรมการขนส่งทางราง กระทรวงคมนาคม. (2567). ข้อมูลสถิติการขนส่ง. สืบค้นจาก https://datagov.mot.go.th/
+
+🇸🇬 สิงคโปร์ (Singapore)
+
+Land Transport Authority (LTA). (2024). LTA DataMall — Public Transport Ridership. Retrieved from https://datamall.lta.gov.sg/content/datamall/en.html
+
+🇲🇾 มาเลเซีย / กัวลาลัมเปอร์ (Malaysia / Kuala Lumpur)
+
+Ministry of Transport Malaysia. (2024). Ridership Headline — data.gov.my. Retrieved from https://data.gov.my/data-catalogue/ridership_headline
+
+
+Faris, I. Q. (2023). Daily Public Transportation Ridership in KL [Kaggle Notebook]. Retrieved from https://www.kaggle.com/code/izzulqhaleeqfaris/daily-public-transportation-ridership-in-kl
+
+🇵🇭 ฟิลิปปินส์ / มะนิลา (Philippines / Manila)
+
+Cayaco, F. S. (2023). MRT-3 Analysis [Kaggle Notebook]. Retrieved from https://www.kaggle.com/code/franksebastiancayaco/mrt-3-analysis
+
+
+Light Rail Transit Authority (LRTA). (2024). Ridership Statistics. Republic of the Philippines Department of Transportation.
+
+🇮🇩 อินโดนีเซีย / จาการ์ตา (Indonesia / Jakarta)
+
+PT TransJakarta. (2024). Data Penumpang TransJakarta. Retrieved from https://www.transjakarta.co.id/
+
+
+👥 ข้อมูลประชากร (Population Data)
+
+United Nations, Department of Economic and Social Affairs, Population Division. (2024). World Urbanization Prospects 2024. Retrieved from https://population.un.org/wup/
+
+หมายเหตุ: ใช้แนวคิด Urban Agglomeration ซึ่งครอบคลุมประชากรในเขตเมืองหลวงและพื้นที่เศรษฐกิจต่อเนื่อง อาจสูงกว่าตัวเลขทะเบียนราษฎร์อย่างเป็นทางการ
+
+💰 ข้อมูล GDP (GDP Data)
+
+International Monetary Fund. (2024). World Economic Outlook Database: October 2024. Retrieved from https://www.imf.org/en/Publications/WEO
+
+
+World Bank. (2024). World Bank Open Data — GDP (current US$). Retrieved from https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
+
+หมายเหตุ: ตัวเลขปี 2024–2025 เป็น Projections ของ IMF ณ เวลาที่จัดทำข้อมูล
+
+🌫️ ข้อมูลคุณภาพอากาศ PM2.5 (Air Quality Data)
+
+IQAir. (2024). World Air Quality Report 2023. Retrieved from https://www.iqair.com/world-air-quality-report
+
+
+World Health Organization. (2024). WHO Global Air Quality Database. Retrieved from https://www.who.int/data/gho/data/themes/air-pollution
+
+
+van Donkelaar, A., Hammer, M. S., Bindle, L., Brauer, M., Brook, J. R., Garay, M. J., ... & Martin, R. V. (2021). Monthly global estimates of fine particulate matter and their uncertainty. Environmental Science & Technology, 55(22), 15287–15300. https://doi.org/10.1021/acs.est.1c05309
+
+หมายเหตุ: ข้อมูลปี 2000–2010 อ้างอิงจาก Satellite-derived PM2.5 (NASA / Washington University in St. Louis); ข้อมูลปี 2011–2025 อ้างอิงจาก IQAir และ WHO Ground Station Network
 
 ---
 
