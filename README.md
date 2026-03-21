@@ -82,7 +82,7 @@
 
 ---
 ### ภาพที่ 3 — Utilization (Ridership per Capita)
-<img width="784" height="584" alt="Utilization" src="https://github.com/user-attachments/assets/0395f0af-984f-485a-abc5-78d630ac51d7" />
+<img width="784" height="584" alt="Fig 3" src="https://github.com/user-attachments/assets/5d2f121d-8f28-47ac-9570-d70d6387c9f2" />
 
 ---
 ### ภาพที่ 4 — Urban Scale vs Transport Utilization
