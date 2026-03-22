@@ -587,9 +587,7 @@ PM2.5: ลดลงชัดเจนจาก ~20 µg/m³ ลงมาถึง
 
 <img width="784" height="484" alt="Fig 36" src="https://github.com/user-attachments/assets/dda39668-a25f-495c-9139-94e67ee9c5f7" />
 
-<img width="784" height="484" alt="Fig 37" src="https://github.com/user-attachments/assets/271e716c-7cc8-41cc-b041-7019ef2fd3ec" />
-
-<img width="784" height="484" alt="Fig 38" src="https://github.com/user-attachments/assets/126ac4cb-a546-4cff-b437-f04f71b2a4d7" />
+<img width="784" height="484" alt="Fig 37" src="https://github.com/user-attachments/assets/271e716c-7cc8-41cc-b041-7019ef2fd3ec" /> <img width="784" height="484" alt="Fig 38" src="https://github.com/user-attachments/assets/126ac4cb-a546-4cff-b437-f04f71b2a4d7" />
 
 
 > 📌 **สรุป:** จากการวิเคราะห์ความสัมพันธ์ (Correlation) ระหว่างระดับฝุ่น PM 2.5 และยอดผู้โดยสาร (Ridership) ใน 5 เมืองหลัก เราสามารถจำแนกพฤติกรรมและความสำคัญของระบบขนส่งมวลชนออกเป็น 4 ลักษณะ ดังนี้:
